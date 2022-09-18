@@ -6,12 +6,12 @@ Repository for final project allocation and submission for CS60013 : Programming
 |Group Name  |     Student Groups                            | Project Allotted               |
 |:----------:|:---------------------------------------------:|:-----------------------------:|
 |Group 1     | KAVINPURI@KGPIAN.IITKGP.AC.IN, SOUMITAGURIAPHD22@KGPIAN.IITKGP.AC.IN | Project 1 |
-|Group 1     | NAJAFARA.FATHIMA@KGPIAN.IITKGP.AC.IN, POOJA.JAIN@KGPIAN.IITKGP.AC.IN | Project 1 |
-|Group 1     | MAMTA.RANI@KGPIAN.IITKGP.AC.IN, BHANUMEENA27@KGPIAN.IITKGP.AC.IN | Project 1 |
-|Group 1     | DR.RAMKUMARKRISHNADHAS@KGPIAN.IITKGP.AC.IN, DRREFLEXPATEL94@KGPIAN.IITKGP.AC.IN | Project 1 |
-|Group 1     | KAMLESHTONY10@KGPIAN.IITKGP.AC.IN, DRPRABHUKALYAN@KGPIAN.IITKGP.AC.IN | Project 1 |
-|Group 1     | AMARMAJHI@KGPIAN.IITKGP.AC.IN, samriddha.das2000@kgpian.iitkgp.ac. | Project 1 |
-|Group 1     | SAURABHCHAUDHARI97@KGPIAN.IITKGP.AC.IN, SATHISHBT@KGPIAN.IITKGP.AC.IN  | Project 1 |
+|Group 2     | NAJAFARA.FATHIMA@KGPIAN.IITKGP.AC.IN, POOJA.JAIN@KGPIAN.IITKGP.AC.IN | [Project 4 : Medical Transcription Analysis](#project-4--medical-transcription-analysis) |
+|Group 3     | MAMTA.RANI@KGPIAN.IITKGP.AC.IN, BHANUMEENA27@KGPIAN.IITKGP.AC.IN | Project 1 |
+|Group 4     | DR.RAMKUMARKRISHNADHAS@KGPIAN.IITKGP.AC.IN, DRREFLEXPATEL94@KGPIAN.IITKGP.AC.IN | Project 1 |
+|Group 5     | KAMLESHTONY10@KGPIAN.IITKGP.AC.IN, DRPRABHUKALYAN@KGPIAN.IITKGP.AC.IN | Project 1 |
+|Group 6     | AMARMAJHI@KGPIAN.IITKGP.AC.IN, samriddha.das2000@kgpian.iitkgp.ac. | Project 1 |
+|Group 7     | SAURABHCHAUDHARI97@KGPIAN.IITKGP.AC.IN, SATHISHBT@KGPIAN.IITKGP.AC.IN  | [Project 3 : ISBI 2022 Accepted Submissions Analysis](#project-3--isbi-2022-accepted-submissions-analysis) |
 
 ---
 ## Projects
@@ -60,9 +60,33 @@ Repository for final project allocation and submission for CS60013 : Programming
    
 
 ### Project 4 : Medical Transcription Analysis
-
-
-#### Problem Statement
+1. The project aims to analyse the medical transcription dataset. The dataset is located in the `data/medical_transcriptions/mtsamples.csv` directory.
+2. The dataset is a `csv` file. `CSV` stands for `C`omma `S`eparated `V`alues. It is a simple file format used to store tabular data, such as a spreadsheet or database. Each line of the file is a data record. Each record consists of one or more fields, separated by commas. The use of the comma as a field separator is the source of the name for this file format.
+3. The dataset contains following fields : 
+   - `description` : Short brief of the interaction between the patient and the doctor.
+   - `medical_specialty` : Medical specialty of the issue discussed in the transcription. 
+   - `sample_name` : Medical Samples used for the diagnosis.
+   - `transcription` : Full transcription of the interaction between the patient and the doctor.
+   - `keywords` : Keywords of the transcription
+4. The project can be divided into sub-areas as follows : 
+   - `Data Preprocessing`
+        1. Write functions to read the csv file. Suggestion : Use the `pandas` library.
+        2. This dataset needs bit of pre-processing. The `medical_specialty` field contains multiple values. You need to split the values and create a list of values. For example, if the `medical_specialty` field contains `Orthopedics, Neurology`, then you need to split it into `['Orthopedics', 'Neurology']`.
+        3. The keywords field contains multiple values. You need to split the values and transform it into a list of values. For example, if the `keywords` field contains `'pain, headache, migraine'`, then you need to split it into `['pain', 'headache', 'migraine']`.
+        4. Look into the dataset and find out if there are any other fields that need to be pre-processed.
+   - `Data Analysis`
+        1. In this part you can prepare a set of questions at least 10 and answer them using the dataset.
+        2. Some examples questions to get you started:
+            * What is the `most common` medical specialty?
+            * What is the `most common` medical sample?
+            * What is the `most common` keyword?
+            * What is the `average` length of the transcription?
+            * What is the `average` length of the description?
+            * What is the `average` length of the keywords?
+            * And so on... Get creative and come up with your own questions.
+   - `Data Visualization`
+        1. In this part you can make use of the `matplotlib` and `seaborn` libraries to visualize the answers to the questions you asked in the previous part.
+        2. Everyone likes to see the results in the form of `graphs` and `charts`. So, make sure you visualize the answers to the questions you asked in the previous part.
 
 
 
