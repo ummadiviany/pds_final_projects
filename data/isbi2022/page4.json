@@ -1,0 +1,1597 @@
+{
+    "userInfo": {
+        "institutionName": "INDIAN INSTITUTE OF TECHNOLOGY KHARAGPUR",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": true,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "MCCIS1|IEL|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            12769
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "marketingInfoCaptured": false,
+        "ringGoldId": "30133"
+    },
+    "records": [
+        {
+            "authors": [
+                {
+                    "preferredName": "Renuka Sharma",
+                    "normalizedName": "R. Sharma",
+                    "firstName": "Renuka",
+                    "lastName": "Sharma",
+                    "searchablePreferredName": "Renuka Sharma",
+                    "id": 37089298614
+                },
+                {
+                    "preferredName": "Suyash P. Awate",
+                    "normalizedName": "S. P. Awate",
+                    "firstName": "Suyash P.",
+                    "lastName": "Awate",
+                    "searchablePreferredName": "Suyash P. Awate",
+                    "id": 37418974000
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
+            },
+            "publicationYear": "2022",
+            "publicationNumber": "9761376",
+            "documentLink": "/document/9761472/",
+            "articleNumber": "9761472",
+            "doi": "10.1109/ISBI52829.2022.9761472",
+            "citationCount": 0,
+            "isNumber": "9761399",
+            "showAlgorithm": false,
+            "showDataset": false,
+            "showVideo": false,
+            "ephemera": false,
+            "vj": false,
+            "articleTitle": "Robust and Uncertainty-Aware VAE (RU-VAE) for One-Class Classification",
+            "graphicalAbstract": {},
+            "publicationLink": "/xpl/conhome/9761376/proceeding",
+            "rightslinkFlag": true,
+            "publicationDate": "28-31 March 2022",
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Robust+and+Uncertainty-Aware+VAE+%28RU-VAE%29+for+One-Class+Classification&isbn=null&publicationDate=28-31+March+2022&author=Renuka+Sharma%3B+Suyash+P.+Awate&ContentID=10.1109/ISBI52829.2022.9761472&orderBeanReset=true&startPage=1&endPage=5&proceedingName=2022+IEEE+19th+International+Symposium+on+Biomedical+Imaging+%28ISBI%29",
+            "pdfSize": "1565",
+            "startPage": "1",
+            "downloadCount": 57,
+            "htmlLink": "/document/9761472/",
+            "endPage": "5",
+            "showHtml": true,
+            "publisher": "IEEE",
+            "handleProduct": false,
+            "showCheckbox": true,
+            "redline": false,
+            "contentType": "IEEE Conferences",
+            "highlightedTitle": "Robust and Uncertainty-Aware VAE (RU-VAE) for One-Class Classification",
+            "publicationTitle": "2022 IEEE 19th International Symposium on Biomedical Imaging (ISBI)",
+            "displayPublicationTitle": "2022 IEEE 19th International Symposium on Biomedical Imaging (ISBI)",
+            "articleContentType": "Conferences",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9761472",
+            "abstract": "One-class classification (OCC) methods for abnormality detection learn either a generative model of the inlier class (e.g., using variants of kernel principal component analysis) or a decision boundary to encapsulate the inlier class (e.g., using one-class variants of the support vector machine). Recent methods use deep-neural-network models to learn (for the inlier class) either latent-space dist...",
+            "isStandard": false,
+            "isConference": true,
+            "isJournalAndMagazine": false,
+            "displayContentType": "Conference Paper",
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "isBookWithoutChapters": false,
+            "isEarlyAccess": false,
+            "isMagazine": false,
+            "docIdentifier": "IEEE Conferences"
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "R. Spilger",
+                    "normalizedName": "R. Spilger",
+                    "firstName": "R.",
+                    "lastName": "Spilger",
+                    "searchablePreferredName": "R. Spilger",
+                    "id": 37087407486
+                },
+                {
+                    "preferredName": "V. O. Chagin",
+                    "normalizedName": "V. O. Chagin",
+                    "firstName": "V. O.",
+                    "lastName": "Chagin",
+                    "searchablePreferredName": "V. O. Chagin",
+                    "id": 37681378100
+                },
+                {
+                    "preferredName": "C. S. Bold",
+                    "normalizedName": "C. S. Bold",
+                    "firstName": "C. S.",
+                    "lastName": "Bold",
+                    "searchablePreferredName": "C. S. Bold",
+                    "id": 37089368636
+                },
+                {
+                    "preferredName": "L. Schermelleh",
+                    "normalizedName": "L. Schermelleh",
+                    "firstName": "L.",
+                    "lastName": "Schermelleh",
+                    "searchablePreferredName": "L. Schermelleh",
+                    "id": 37089371580
+                },
+                {
+                    "preferredName": "U. C. Müller",
+                    "normalizedName": "U. C. Müller",
+                    "firstName": "U. C.",
+                    "lastName": "Müller",
+                    "searchablePreferredName": "U. C. Müller",
+                    "id": 37089371565
+                },
+                {
+                    "preferredName": "M. C. Cardoso",
+                    "normalizedName": "M. C. Cardoso",
+                    "firstName": "M. C.",
+                    "lastName": "Cardoso",
+                    "searchablePreferredName": "M. C. Cardoso",
+                    "id": 37682097900
+                },
+                {
+                    "preferredName": "K. Rohr",
+                    "normalizedName": "K. Rohr",
+                    "firstName": "K.",
+                    "lastName": "Rohr",
+                    "searchablePreferredName": "K. Rohr",
+                    "id": 37293910200
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
+            },
+            "publicationYear": "2022",
+            "publicationNumber": "9761376",
+            "documentLink": "/document/9761509/",
+            "articleNumber": "9761509",
+            "doi": "10.1109/ISBI52829.2022.9761509",
+            "citationCount": 0,
+            "isNumber": "9761399",
+            "showAlgorithm": false,
+            "showDataset": false,
+            "showVideo": false,
+            "ephemera": false,
+            "vj": false,
+            "articleTitle": "Deep Neural Network for 3D Particle Detection in 3D Fluorescence Microscopy Images via Density Map Regression",
+            "graphicalAbstract": {},
+            "publicationLink": "/xpl/conhome/9761376/proceeding",
+            "rightslinkFlag": true,
+            "publicationDate": "28-31 March 2022",
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Deep+Neural+Network+for+3D+Particle+Detection+in+3D+Fluorescence+Microscopy+Images+via+Density+Map+Regression&isbn=null&publicationDate=28-31+March+2022&author=R.+Spilger%3B+V.+O.+Chagin%3B+C.+S.+Bold%3B+L.+Schermelleh%3B+U.+C.+M%C3%BCller%3B+M.+C.+Cardoso%3B+K.+Rohr&ContentID=10.1109/ISBI52829.2022.9761509&orderBeanReset=true&startPage=1&endPage=4&proceedingName=2022+IEEE+19th+International+Symposium+on+Biomedical+Imaging+%28ISBI%29",
+            "pdfSize": "1100",
+            "startPage": "1",
+            "downloadCount": 44,
+            "htmlLink": "/document/9761509/",
+            "endPage": "4",
+            "showHtml": true,
+            "publisher": "IEEE",
+            "handleProduct": false,
+            "showCheckbox": true,
+            "redline": false,
+            "contentType": "IEEE Conferences",
+            "highlightedTitle": "Deep Neural Network for 3D Particle Detection in 3D Fluorescence Microscopy Images via Density Map Regression",
+            "publicationTitle": "2022 IEEE 19th International Symposium on Biomedical Imaging (ISBI)",
+            "displayPublicationTitle": "2022 IEEE 19th International Symposium on Biomedical Imaging (ISBI)",
+            "articleContentType": "Conferences",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9761509",
+            "abstract": "Automatic detection of particles in fluorescence microscopy images is crucial to analyze cellular processes. We introduce a novel deep learning method for 3D fluorescent particle detection. Instead of pixel-wise binary classification or direct coordinate regression, we perform image-to-image mapping based on regressing a density map. Detections close to particles are rewarded in the network traini...",
+            "isStandard": false,
+            "isConference": true,
+            "isJournalAndMagazine": false,
+            "displayContentType": "Conference Paper",
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "isBookWithoutChapters": false,
+            "isEarlyAccess": false,
+            "isMagazine": false,
+            "docIdentifier": "IEEE Conferences"
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Roman Spilger",
+                    "normalizedName": "R. Spilger",
+                    "firstName": "Roman",
+                    "lastName": "Spilger",
+                    "searchablePreferredName": "Roman Spilger",
+                    "id": 37087407486
+                },
+                {
+                    "preferredName": "Ji-Young Lee",
+                    "normalizedName": "J. -Y. Lee",
+                    "firstName": "Ji-Young",
+                    "lastName": "Lee",
+                    "searchablePreferredName": "Ji-Young Lee",
+                    "id": 37086042600
+                },
+                {
+                    "preferredName": "Ralf Bartenschlager",
+                    "normalizedName": "R. Bartenschlager",
+                    "firstName": "Ralf",
+                    "lastName": "Bartenschlager",
+                    "searchablePreferredName": "Ralf Bartenschlager",
+                    "id": 37086041232
+                },
+                {
+                    "preferredName": "Karl Rohr",
+                    "normalizedName": "K. Rohr",
+                    "firstName": "Karl",
+                    "lastName": "Rohr",
+                    "searchablePreferredName": "Karl Rohr",
+                    "id": 37293910200
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
+            },
+            "publicationYear": "2022",
+            "publicationNumber": "9761376",
+            "documentLink": "/document/9761696/",
+            "articleNumber": "9761696",
+            "doi": "10.1109/ISBI52829.2022.9761696",
+            "citationCount": 0,
+            "isNumber": "9761399",
+            "showAlgorithm": false,
+            "showDataset": false,
+            "showVideo": false,
+            "ephemera": false,
+            "vj": false,
+            "articleTitle": "Deep Neural Network for Combined Particle Tracking and Colocalization Analysis in Two-Channel Microscopy Images",
+            "graphicalAbstract": {},
+            "publicationLink": "/xpl/conhome/9761376/proceeding",
+            "rightslinkFlag": true,
+            "publicationDate": "28-31 March 2022",
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Deep+Neural+Network+for+Combined+Particle+Tracking+and+Colocalization+Analysis+in+Two-Channel+Microscopy+Images&isbn=null&publicationDate=28-31+March+2022&author=Roman+Spilger%3B+Ji-Young+Lee%3B+Ralf+Bartenschlager%3B+Karl+Rohr&ContentID=10.1109/ISBI52829.2022.9761696&orderBeanReset=true&startPage=1&endPage=4&proceedingName=2022+IEEE+19th+International+Symposium+on+Biomedical+Imaging+%28ISBI%29",
+            "pdfSize": "1018",
+            "startPage": "1",
+            "downloadCount": 29,
+            "htmlLink": "/document/9761696/",
+            "endPage": "4",
+            "showHtml": true,
+            "publisher": "IEEE",
+            "handleProduct": false,
+            "showCheckbox": true,
+            "redline": false,
+            "contentType": "IEEE Conferences",
+            "highlightedTitle": "Deep Neural Network for Combined Particle Tracking and Colocalization Analysis in Two-Channel Microscopy Images",
+            "publicationTitle": "2022 IEEE 19th International Symposium on Biomedical Imaging (ISBI)",
+            "displayPublicationTitle": "2022 IEEE 19th International Symposium on Biomedical Imaging (ISBI)",
+            "articleContentType": "Conferences",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9761696",
+            "abstract": "Analyzing protein dynamics in multi-channel fluorescence microscopy data is important to understand biological processes. We present a novel deep learning approach for combined particle tracking and colocalization analysis in two-channel microscopy image sequences. The approach is based on a convolutional long short-term memory network and exploits colocalization information to improve tracking. S...",
+            "isStandard": false,
+            "isConference": true,
+            "isJournalAndMagazine": false,
+            "displayContentType": "Conference Paper",
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "isBookWithoutChapters": false,
+            "isEarlyAccess": false,
+            "isMagazine": false,
+            "docIdentifier": "IEEE Conferences"
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Egor Panfilov",
+                    "normalizedName": "E. Panfilov",
+                    "firstName": "Egor",
+                    "lastName": "Panfilov",
+                    "searchablePreferredName": "Egor Panfilov",
+                    "id": 37088231382
+                },
+                {
+                    "preferredName": "Simo Saarakkala",
+                    "normalizedName": "S. Saarakkala",
+                    "firstName": "Simo",
+                    "lastName": "Saarakkala",
+                    "searchablePreferredName": "Simo Saarakkala",
+                    "id": 37396891700
+                },
+                {
+                    "preferredName": "Miika T. Nieminen",
+                    "normalizedName": "M. T. Nieminen",
+                    "firstName": "Miika T.",
+                    "lastName": "Nieminen",
+                    "searchablePreferredName": "Miika T. Nieminen",
+                    "id": 37086609910
+                },
+                {
+                    "preferredName": "Aleksei Tiulpin",
+                    "normalizedName": "A. Tiulpin",
+                    "firstName": "Aleksei",
+                    "lastName": "Tiulpin",
+                    "searchablePreferredName": "Aleksei Tiulpin",
+                    "id": 37086702721
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
+            },
+            "publicationYear": "2022",
+            "publicationNumber": "9761376",
+            "documentLink": "/document/9761458/",
+            "articleNumber": "9761458",
+            "doi": "10.1109/ISBI52829.2022.9761458",
+            "citationCount": 0,
+            "isNumber": "9761399",
+            "showAlgorithm": false,
+            "showDataset": false,
+            "showVideo": false,
+            "ephemera": false,
+            "vj": false,
+            "articleTitle": "Predicting Knee Osteoarthritis Progression from Structural MRI Using Deep Learning",
+            "graphicalAbstract": {},
+            "publicationLink": "/xpl/conhome/9761376/proceeding",
+            "rightslinkFlag": true,
+            "publicationDate": "28-31 March 2022",
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Predicting+Knee+Osteoarthritis+Progression+from+Structural+MRI+Using+Deep+Learning&isbn=null&publicationDate=28-31+March+2022&author=Egor+Panfilov%3B+Simo+Saarakkala%3B+Miika+T.+Nieminen%3B+Aleksei+Tiulpin&ContentID=10.1109/ISBI52829.2022.9761458&orderBeanReset=true&startPage=1&endPage=5&proceedingName=2022+IEEE+19th+International+Symposium+on+Biomedical+Imaging+%28ISBI%29",
+            "pdfSize": "2369",
+            "startPage": "1",
+            "downloadCount": 27,
+            "htmlLink": "/document/9761458/",
+            "endPage": "5",
+            "showHtml": true,
+            "publisher": "IEEE",
+            "handleProduct": false,
+            "showCheckbox": true,
+            "redline": false,
+            "contentType": "IEEE Conferences",
+            "highlightedTitle": "Predicting Knee Osteoarthritis Progression from Structural MRI Using Deep Learning",
+            "publicationTitle": "2022 IEEE 19th International Symposium on Biomedical Imaging (ISBI)",
+            "displayPublicationTitle": "2022 IEEE 19th International Symposium on Biomedical Imaging (ISBI)",
+            "articleContentType": "Conferences",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9761458",
+            "abstract": "Accurate prediction of knee osteoarthritis (KOA) progression from structural MRI has a potential to enhance disease understanding and support clinical trials. Prior art focused on manually designed imaging biomarkers, which may not fully exploit all disease-related information present in MRI scan. In contrast, our method learns relevant representations from raw data end-to-end using Deep Learning,...",
+            "isStandard": false,
+            "isConference": true,
+            "isJournalAndMagazine": false,
+            "displayContentType": "Conference Paper",
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "isBookWithoutChapters": false,
+            "isEarlyAccess": false,
+            "isMagazine": false,
+            "docIdentifier": "IEEE Conferences"
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Linkai Peng",
+                    "normalizedName": "L. Peng",
+                    "firstName": "Linkai",
+                    "lastName": "Peng",
+                    "searchablePreferredName": "Linkai Peng",
+                    "id": 37089369529
+                },
+                {
+                    "preferredName": "Li Lin",
+                    "normalizedName": "L. Lin",
+                    "firstName": "Li",
+                    "lastName": "Lin",
+                    "searchablePreferredName": "Li Lin",
+                    "id": 37088407521
+                },
+                {
+                    "preferredName": "Pujin Cheng",
+                    "normalizedName": "P. Cheng",
+                    "firstName": "Pujin",
+                    "lastName": "Cheng",
+                    "searchablePreferredName": "Pujin Cheng",
+                    "id": 37088407860
+                },
+                {
+                    "preferredName": "Ziqi Huang",
+                    "normalizedName": "Z. Huang",
+                    "firstName": "Ziqi",
+                    "lastName": "Huang",
+                    "searchablePreferredName": "Ziqi Huang",
+                    "id": 37089369214
+                },
+                {
+                    "preferredName": "Xiaoying Tang",
+                    "normalizedName": "X. Tang",
+                    "firstName": "Xiaoying",
+                    "lastName": "Tang",
+                    "searchablePreferredName": "Xiaoying Tang",
+                    "id": 37086611129
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
+            },
+            "publicationYear": "2022",
+            "publicationNumber": "9761376",
+            "documentLink": "/document/9761675/",
+            "articleNumber": "9761675",
+            "doi": "10.1109/ISBI52829.2022.9761675",
+            "citationCount": 0,
+            "isNumber": "9761399",
+            "showAlgorithm": false,
+            "showDataset": false,
+            "showVideo": false,
+            "ephemera": false,
+            "vj": false,
+            "articleTitle": "Unsupervised Domain Adaptation for Cross-Modality Retinal Vessel Segmentation via Disentangling Representation Style Transfer and Collaborative Consistency Learning",
+            "graphicalAbstract": {},
+            "publicationLink": "/xpl/conhome/9761376/proceeding",
+            "rightslinkFlag": true,
+            "publicationDate": "28-31 March 2022",
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Unsupervised+Domain+Adaptation+for+Cross-Modality+Retinal+Vessel+Segmentation+via+Disentangling+Representation+Style+Transfer+and+Collaborative+Consistency+Learning&isbn=null&publicationDate=28-31+March+2022&author=Linkai+Peng%3B+Li+Lin%3B+Pujin+Cheng%3B+Ziqi+Huang%3B+Xiaoying+Tang&ContentID=10.1109/ISBI52829.2022.9761675&orderBeanReset=true&startPage=1&endPage=5&proceedingName=2022+IEEE+19th+International+Symposium+on+Biomedical+Imaging+%28ISBI%29",
+            "pdfSize": "2805",
+            "startPage": "1",
+            "downloadCount": 60,
+            "htmlLink": "/document/9761675/",
+            "endPage": "5",
+            "showHtml": true,
+            "publisher": "IEEE",
+            "handleProduct": false,
+            "showCheckbox": true,
+            "redline": false,
+            "contentType": "IEEE Conferences",
+            "highlightedTitle": "Unsupervised Domain Adaptation for Cross-Modality Retinal Vessel Segmentation via Disentangling Representation Style Transfer and Collaborative Consistency Learning",
+            "publicationTitle": "2022 IEEE 19th International Symposium on Biomedical Imaging (ISBI)",
+            "displayPublicationTitle": "2022 IEEE 19th International Symposium on Biomedical Imaging (ISBI)",
+            "articleContentType": "Conferences",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9761675",
+            "abstract": "Various deep learning models have been developed to segment anatomical structures from medical images, but they typically have poor performance when tested on another target domain with different data distribution. Recently, unsupervised domain adaptation methods have been proposed to alleviate this so-called domain shift issue, but most of them are designed for scenarios with relatively small dom...",
+            "isStandard": false,
+            "isConference": true,
+            "isJournalAndMagazine": false,
+            "displayContentType": "Conference Paper",
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "isBookWithoutChapters": false,
+            "isEarlyAccess": false,
+            "isMagazine": false,
+            "docIdentifier": "IEEE Conferences"
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Zhizhong Chai",
+                    "normalizedName": "Z. Chai",
+                    "firstName": "Zhizhong",
+                    "lastName": "Chai",
+                    "searchablePreferredName": "Zhizhong Chai",
+                    "id": 37089370084
+                },
+                {
+                    "preferredName": "Luyang Luo",
+                    "normalizedName": "L. Luo",
+                    "firstName": "Luyang",
+                    "lastName": "Luo",
+                    "searchablePreferredName": "Luyang Luo",
+                    "id": 37088540935
+                },
+                {
+                    "preferredName": "Huangjing Lin",
+                    "normalizedName": "H. Lin",
+                    "firstName": "Huangjing",
+                    "lastName": "Lin",
+                    "searchablePreferredName": "Huangjing Lin",
+                    "id": 37086376186
+                },
+                {
+                    "preferredName": "Hao Chen",
+                    "normalizedName": "H. Chen",
+                    "firstName": "Hao",
+                    "lastName": "Chen",
+                    "searchablePreferredName": "Hao Chen",
+                    "id": 37089395758
+                },
+                {
+                    "preferredName": "Anjia Han",
+                    "normalizedName": "A. Han",
+                    "firstName": "Anjia",
+                    "lastName": "Han",
+                    "searchablePreferredName": "Anjia Han",
+                    "id": 37088923882
+                },
+                {
+                    "preferredName": "Pheng-Ann Heng",
+                    "normalizedName": "P. -A. Heng",
+                    "firstName": "Pheng-Ann",
+                    "lastName": "Heng",
+                    "searchablePreferredName": "Pheng-Ann Heng",
+                    "id": 37283077400
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
+            },
+            "publicationYear": "2022",
+            "publicationNumber": "9761376",
+            "documentLink": "/document/9761652/",
+            "articleNumber": "9761652",
+            "doi": "10.1109/ISBI52829.2022.9761652",
+            "citationCount": 0,
+            "isNumber": "9761399",
+            "showAlgorithm": false,
+            "showDataset": false,
+            "showVideo": false,
+            "ephemera": false,
+            "vj": false,
+            "articleTitle": "Deep Semi-Supervised Metric Learning with Dual Alignment for Cervical Cancer Cell Detection",
+            "graphicalAbstract": {},
+            "publicationLink": "/xpl/conhome/9761376/proceeding",
+            "rightslinkFlag": true,
+            "publicationDate": "28-31 March 2022",
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Deep+Semi-Supervised+Metric+Learning+with+Dual+Alignment+for+Cervical+Cancer+Cell+Detection&isbn=null&publicationDate=28-31+March+2022&author=Zhizhong+Chai%3B+Luyang+Luo%3B+Huangjing+Lin%3B+Hao+Chen%3B+Anjia+Han%3B+Pheng-Ann+Heng&ContentID=10.1109/ISBI52829.2022.9761652&orderBeanReset=true&startPage=1&endPage=5&proceedingName=2022+IEEE+19th+International+Symposium+on+Biomedical+Imaging+%28ISBI%29",
+            "pdfSize": "1798",
+            "startPage": "1",
+            "downloadCount": 90,
+            "htmlLink": "/document/9761652/",
+            "endPage": "5",
+            "showHtml": true,
+            "publisher": "IEEE",
+            "handleProduct": false,
+            "showCheckbox": true,
+            "redline": false,
+            "contentType": "IEEE Conferences",
+            "highlightedTitle": "Deep Semi-Supervised Metric Learning with Dual Alignment for Cervical Cancer Cell Detection",
+            "publicationTitle": "2022 IEEE 19th International Symposium on Biomedical Imaging (ISBI)",
+            "displayPublicationTitle": "2022 IEEE 19th International Symposium on Biomedical Imaging (ISBI)",
+            "articleContentType": "Conferences",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9761652",
+            "abstract": "Deep learning has achieved unprecedented success in various object detection tasks with huge amounts of labeled data. However, obtaining large-scale annotations for medical images is extremely challenging due to the high demand of labour and expertise. In this paper, we propose a novel deep semi-supervised metric learning method to effectively leverage both labeled and unlabeled data for cervical ...",
+            "isStandard": false,
+            "isConference": true,
+            "isJournalAndMagazine": false,
+            "displayContentType": "Conference Paper",
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "isBookWithoutChapters": false,
+            "isEarlyAccess": false,
+            "isMagazine": false,
+            "docIdentifier": "IEEE Conferences"
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Karina Ruzaeva",
+                    "normalizedName": "K. Ruzaeva",
+                    "firstName": "Karina",
+                    "lastName": "Ruzaeva",
+                    "searchablePreferredName": "Karina Ruzaeva",
+                    "id": 37089368410
+                },
+                {
+                    "preferredName": "Katharina Nöh",
+                    "normalizedName": "K. Nöh",
+                    "firstName": "Katharina",
+                    "lastName": "Nöh",
+                    "searchablePreferredName": "Katharina Nöh",
+                    "id": 37089405189
+                },
+                {
+                    "preferredName": "Benjamin Berkels",
+                    "normalizedName": "B. Berkels",
+                    "firstName": "Benjamin",
+                    "lastName": "Berkels",
+                    "searchablePreferredName": "Benjamin Berkels",
+                    "id": 37714056100
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
+            },
+            "publicationYear": "2022",
+            "publicationNumber": "9761376",
+            "documentLink": "/document/9761575/",
+            "articleNumber": "9761575",
+            "doi": "10.1109/ISBI52829.2022.9761575",
+            "citationCount": 0,
+            "isNumber": "9761399",
+            "showAlgorithm": false,
+            "showDataset": false,
+            "showVideo": false,
+            "ephemera": false,
+            "vj": false,
+            "articleTitle": "A Hybrid Multi-Object Segmentation Framework with Model-Based B-Splines for Microbial Single Cell Analysis",
+            "graphicalAbstract": {},
+            "publicationLink": "/xpl/conhome/9761376/proceeding",
+            "rightslinkFlag": true,
+            "publicationDate": "28-31 March 2022",
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=A+Hybrid+Multi-Object+Segmentation+Framework+with+Model-Based+B-Splines+for+Microbial+Single+Cell+Analysis&isbn=null&publicationDate=28-31+March+2022&author=Karina+Ruzaeva%3B+Katharina+N%C3%B6h%3B+Benjamin+Berkels&ContentID=10.1109/ISBI52829.2022.9761575&orderBeanReset=true&startPage=1&endPage=5&proceedingName=2022+IEEE+19th+International+Symposium+on+Biomedical+Imaging+%28ISBI%29",
+            "pdfSize": "3310",
+            "startPage": "1",
+            "downloadCount": 49,
+            "htmlLink": "/document/9761575/",
+            "endPage": "5",
+            "showHtml": true,
+            "publisher": "IEEE",
+            "handleProduct": false,
+            "showCheckbox": true,
+            "redline": false,
+            "contentType": "IEEE Conferences",
+            "highlightedTitle": "A Hybrid Multi-Object Segmentation Framework with Model-Based B-Splines for Microbial Single Cell Analysis",
+            "publicationTitle": "2022 IEEE 19th International Symposium on Biomedical Imaging (ISBI)",
+            "displayPublicationTitle": "2022 IEEE 19th International Symposium on Biomedical Imaging (ISBI)",
+            "articleContentType": "Conferences",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9761575",
+            "abstract": "In this paper, we propose a hybrid approach for multi-object microbial cell segmentation. The approach combines an ML-based detection with a geometry-aware variational-based segmentation using B-splines that are parametrized based on a geometric model of the cell shape. The detection is done first using YOLOv5. In a second step, each detected cell is segmented individually. Thus, the segmentation ...",
+            "isStandard": false,
+            "isConference": true,
+            "isJournalAndMagazine": false,
+            "displayContentType": "Conference Paper",
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "isBookWithoutChapters": false,
+            "isEarlyAccess": false,
+            "isMagazine": false,
+            "docIdentifier": "IEEE Conferences"
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Xiang Zhang",
+                    "normalizedName": "X. Zhang",
+                    "firstName": "Xiang",
+                    "lastName": "Zhang",
+                    "searchablePreferredName": "Xiang Zhang",
+                    "id": 37086321298
+                },
+                {
+                    "preferredName": "Xiao Zhang",
+                    "normalizedName": "X. Zhang",
+                    "firstName": "Xiao",
+                    "lastName": "Zhang",
+                    "searchablePreferredName": "Xiao Zhang",
+                    "id": 37089370300
+                },
+                {
+                    "preferredName": "Hangzai Luo",
+                    "normalizedName": "H. Luo",
+                    "firstName": "Hangzai",
+                    "lastName": "Luo",
+                    "searchablePreferredName": "Hangzai Luo",
+                    "id": 37275772500
+                },
+                {
+                    "preferredName": "Sheng Zhong",
+                    "normalizedName": "S. Zhong",
+                    "firstName": "Sheng",
+                    "lastName": "Zhong",
+                    "searchablePreferredName": "Sheng Zhong",
+                    "id": 37089371536
+                },
+                {
+                    "preferredName": "Lei Tang",
+                    "normalizedName": "L. Tang",
+                    "firstName": "Lei",
+                    "lastName": "Tang",
+                    "searchablePreferredName": "Lei Tang",
+                    "id": 37089370373
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
+            },
+            "publicationYear": "2022",
+            "publicationNumber": "9761376",
+            "documentLink": "/document/9761691/",
+            "articleNumber": "9761691",
+            "doi": "10.1109/ISBI52829.2022.9761691",
+            "citationCount": 0,
+            "isNumber": "9761399",
+            "showAlgorithm": false,
+            "showDataset": false,
+            "showVideo": false,
+            "ephemera": false,
+            "vj": false,
+            "articleTitle": "Location-Guided Coarse-to-Fine Network for Whole Heart Segmentation",
+            "graphicalAbstract": {},
+            "publicationLink": "/xpl/conhome/9761376/proceeding",
+            "rightslinkFlag": true,
+            "publicationDate": "28-31 March 2022",
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Location-Guided+Coarse-to-Fine+Network+for+Whole+Heart+Segmentation&isbn=null&publicationDate=28-31+March+2022&author=Xiang+Zhang%3B+Xiao+Zhang%3B+Hangzai+Luo%3B+Sheng+Zhong%3B+Lei+Tang&ContentID=10.1109/ISBI52829.2022.9761691&orderBeanReset=true&startPage=1&endPage=5&proceedingName=2022+IEEE+19th+International+Symposium+on+Biomedical+Imaging+%28ISBI%29",
+            "pdfSize": "2040",
+            "startPage": "1",
+            "downloadCount": 26,
+            "htmlLink": "/document/9761691/",
+            "endPage": "5",
+            "showHtml": true,
+            "publisher": "IEEE",
+            "handleProduct": false,
+            "showCheckbox": true,
+            "redline": false,
+            "contentType": "IEEE Conferences",
+            "highlightedTitle": "Location-Guided Coarse-to-Fine Network for Whole Heart Segmentation",
+            "publicationTitle": "2022 IEEE 19th International Symposium on Biomedical Imaging (ISBI)",
+            "displayPublicationTitle": "2022 IEEE 19th International Symposium on Biomedical Imaging (ISBI)",
+            "articleContentType": "Conferences",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9761691",
+            "abstract": "The human heart is a hollow muscular organ with very large variations in shape and size, automatic and accurate segmentation of the whole heart is challenging for medical image analysis. To tackle this challenge, a simple and effective fully automatic coarse-to-fine network is proposed to enable whole heart segmentation. It comprehensively captures the anatomical dependencies of the heart and its ...",
+            "isStandard": false,
+            "isConference": true,
+            "isJournalAndMagazine": false,
+            "displayContentType": "Conference Paper",
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "isBookWithoutChapters": false,
+            "isEarlyAccess": false,
+            "isMagazine": false,
+            "docIdentifier": "IEEE Conferences"
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Vatsala Sharma",
+                    "normalizedName": "V. Sharma",
+                    "firstName": "Vatsala",
+                    "lastName": "Sharma",
+                    "searchablePreferredName": "Vatsala Sharma",
+                    "id": 37089370705
+                },
+                {
+                    "preferredName": "Ansh Khurana",
+                    "normalizedName": "A. Khurana",
+                    "firstName": "Ansh",
+                    "lastName": "Khurana",
+                    "searchablePreferredName": "Ansh Khurana",
+                    "id": 37088855913
+                },
+                {
+                    "preferredName": "Sriram Yenamandra",
+                    "normalizedName": "S. Yenamandra",
+                    "firstName": "Sriram",
+                    "lastName": "Yenamandra",
+                    "searchablePreferredName": "Sriram Yenamandra",
+                    "id": 37088854910
+                },
+                {
+                    "preferredName": "Suyash P. Awate",
+                    "normalizedName": "S. P. Awate",
+                    "firstName": "Suyash P.",
+                    "lastName": "Awate",
+                    "searchablePreferredName": "Suyash P. Awate",
+                    "id": 37418974000
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
+            },
+            "publicationYear": "2022",
+            "publicationNumber": "9761376",
+            "documentLink": "/document/9761601/",
+            "articleNumber": "9761601",
+            "doi": "10.1109/ISBI52829.2022.9761601",
+            "citationCount": 0,
+            "isNumber": "9761399",
+            "showAlgorithm": false,
+            "showDataset": false,
+            "showVideo": false,
+            "ephemera": false,
+            "vj": false,
+            "articleTitle": "Semi-Supervised Deep Expectation-Maximization for Low-Dose Pet-Ct",
+            "graphicalAbstract": {},
+            "publicationLink": "/xpl/conhome/9761376/proceeding",
+            "rightslinkFlag": true,
+            "publicationDate": "28-31 March 2022",
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Semi-Supervised+Deep+Expectation-Maximization+for+Low-Dose+Pet-Ct&isbn=null&publicationDate=28-31+March+2022&author=Vatsala+Sharma%3B+Ansh+Khurana%3B+Sriram+Yenamandra%3B+Suyash+P.+Awate&ContentID=10.1109/ISBI52829.2022.9761601&orderBeanReset=true&startPage=1&endPage=5&proceedingName=2022+IEEE+19th+International+Symposium+on+Biomedical+Imaging+%28ISBI%29",
+            "pdfSize": "5719",
+            "startPage": "1",
+            "downloadCount": 93,
+            "htmlLink": "/document/9761601/",
+            "endPage": "5",
+            "showHtml": true,
+            "publisher": "IEEE",
+            "handleProduct": false,
+            "showCheckbox": true,
+            "redline": false,
+            "contentType": "IEEE Conferences",
+            "highlightedTitle": "Semi-Supervised Deep Expectation-Maximization for Low-Dose Pet-Ct",
+            "publicationTitle": "2022 IEEE 19th International Symposium on Biomedical Imaging (ISBI)",
+            "displayPublicationTitle": "2022 IEEE 19th International Symposium on Biomedical Imaging (ISBI)",
+            "articleContentType": "Conferences",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9761601",
+            "abstract": "Reducing the dose of ionizing radiation underlying combined imaging with positron emission tomography (PET) and computed tomography (CT) typically leads to reduced image quality. We propose a novel variational deep-neural-network (DNN) framework for image quality enhancement of low-dose PET-CT images, relying on Monte-Carlo expectation maximization. Unlike existing DNN-based training that pairs lo...",
+            "isStandard": false,
+            "isConference": true,
+            "isJournalAndMagazine": false,
+            "displayContentType": "Conference Paper",
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "isBookWithoutChapters": false,
+            "isEarlyAccess": false,
+            "isMagazine": false,
+            "docIdentifier": "IEEE Conferences"
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Ricardo A. Gonzales",
+                    "normalizedName": "R. A. Gonzales",
+                    "firstName": "Ricardo A.",
+                    "lastName": "Gonzales",
+                    "searchablePreferredName": "Ricardo A. Gonzales",
+                    "id": 37089371280
+                },
+                {
+                    "preferredName": "Jérôme Lamy",
+                    "normalizedName": "J. Lamy",
+                    "firstName": "Jérôme",
+                    "lastName": "Lamy",
+                    "searchablePreferredName": "Jérôme Lamy",
+                    "id": 37547632900
+                },
+                {
+                    "preferredName": "Felicia Seemann",
+                    "normalizedName": "F. Seemann",
+                    "firstName": "Felicia",
+                    "lastName": "Seemann",
+                    "searchablePreferredName": "Felicia Seemann",
+                    "id": 37089371651
+                },
+                {
+                    "preferredName": "Einar Heiberg",
+                    "normalizedName": "E. Heiberg",
+                    "firstName": "Einar",
+                    "lastName": "Heiberg",
+                    "searchablePreferredName": "Einar Heiberg",
+                    "id": 37662873700
+                },
+                {
+                    "preferredName": "Dana C. Peters",
+                    "normalizedName": "D. C. Peters",
+                    "firstName": "Dana C.",
+                    "lastName": "Peters",
+                    "searchablePreferredName": "Dana C. Peters",
+                    "id": 37085433123
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
+            },
+            "publicationYear": "2022",
+            "publicationNumber": "9761376",
+            "documentLink": "/document/9761595/",
+            "articleNumber": "9761595",
+            "doi": "10.1109/ISBI52829.2022.9761595",
+            "citationCount": 0,
+            "isNumber": "9761399",
+            "showAlgorithm": false,
+            "showDataset": false,
+            "showVideo": false,
+            "ephemera": false,
+            "vj": false,
+            "articleTitle": "Automated Measurements of Mitral and Tricuspid Annular Dimensions in Cardiovascular Magnetic Resonance",
+            "graphicalAbstract": {},
+            "publicationLink": "/xpl/conhome/9761376/proceeding",
+            "rightslinkFlag": true,
+            "publicationDate": "28-31 March 2022",
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Automated+Measurements+of+Mitral+and+Tricuspid+Annular+Dimensions+in+Cardiovascular+Magnetic+Resonance&isbn=null&publicationDate=28-31+March+2022&author=Ricardo+A.+Gonzales%3B+J%C3%A9r%C3%B4me+Lamy%3B+Felicia+Seemann%3B+Einar+Heiberg%3B+Dana+C.+Peters&ContentID=10.1109/ISBI52829.2022.9761595&orderBeanReset=true&startPage=1&endPage=4&proceedingName=2022+IEEE+19th+International+Symposium+on+Biomedical+Imaging+%28ISBI%29",
+            "pdfSize": "1685",
+            "startPage": "1",
+            "downloadCount": 35,
+            "htmlLink": "/document/9761595/",
+            "endPage": "4",
+            "showHtml": true,
+            "publisher": "IEEE",
+            "handleProduct": false,
+            "showCheckbox": true,
+            "redline": false,
+            "contentType": "IEEE Conferences",
+            "highlightedTitle": "Automated Measurements of Mitral and Tricuspid Annular Dimensions in Cardiovascular Magnetic Resonance",
+            "publicationTitle": "2022 IEEE 19th International Symposium on Biomedical Imaging (ISBI)",
+            "displayPublicationTitle": "2022 IEEE 19th International Symposium on Biomedical Imaging (ISBI)",
+            "articleContentType": "Conferences",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9761595",
+            "abstract": "Our recent work on mitral and tricuspid valve tracking in cardiovascular magnetic resonance (CMR) imaging to obtain accurate evaluations of longitudinal myocardial valve motion (both relaxation and contraction) has enabled an automated diastolic function assessment (e’) with CMR. Its time-resolved capability allows a further evaluation of the valve dynamics by providing valve dimension measurement...",
+            "isStandard": false,
+            "isConference": true,
+            "isJournalAndMagazine": false,
+            "displayContentType": "Conference Paper",
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "isBookWithoutChapters": false,
+            "isEarlyAccess": false,
+            "isMagazine": false,
+            "docIdentifier": "IEEE Conferences"
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Xin You",
+                    "normalizedName": "X. You",
+                    "firstName": "Xin",
+                    "lastName": "You",
+                    "searchablePreferredName": "Xin You",
+                    "id": 37089370558
+                },
+                {
+                    "preferredName": "Yun Gu",
+                    "normalizedName": "Y. Gu",
+                    "firstName": "Yun",
+                    "lastName": "Gu",
+                    "searchablePreferredName": "Yun Gu",
+                    "id": 37085529079
+                },
+                {
+                    "preferredName": "Yingying Liu",
+                    "normalizedName": "Y. Liu",
+                    "firstName": "Yingying",
+                    "lastName": "Liu",
+                    "searchablePreferredName": "Yingying Liu",
+                    "id": 37087127348
+                },
+                {
+                    "preferredName": "Steve Lu",
+                    "normalizedName": "S. Lu",
+                    "firstName": "Steve",
+                    "lastName": "Lu",
+                    "searchablePreferredName": "Steve Lu",
+                    "id": 37089370920
+                },
+                {
+                    "preferredName": "Xin Tang",
+                    "normalizedName": "X. Tang",
+                    "firstName": "Xin",
+                    "lastName": "Tang",
+                    "searchablePreferredName": "Xin Tang",
+                    "id": 37089369662
+                },
+                {
+                    "preferredName": "Jie Yang",
+                    "normalizedName": "J. Yang",
+                    "firstName": "Jie",
+                    "lastName": "Yang",
+                    "searchablePreferredName": "Jie Yang",
+                    "id": 37280203600
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
+            },
+            "publicationYear": "2022",
+            "publicationNumber": "9761376",
+            "documentLink": "/document/9761551/",
+            "articleNumber": "9761551",
+            "doi": "10.1109/ISBI52829.2022.9761551",
+            "citationCount": 0,
+            "isNumber": "9761399",
+            "showAlgorithm": false,
+            "showDataset": false,
+            "showVideo": false,
+            "ephemera": false,
+            "vj": false,
+            "articleTitle": "EG-Trans3DUNet: A Single-Staged Transformer-Based Model for Accurate Vertebrae Segmentation from Spinal Ct Images",
+            "graphicalAbstract": {},
+            "publicationLink": "/xpl/conhome/9761376/proceeding",
+            "rightslinkFlag": true,
+            "publicationDate": "28-31 March 2022",
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=EG-Trans3DUNet%3A+A+Single-Staged+Transformer-Based+Model+for+Accurate+Vertebrae+Segmentation+from+Spinal+Ct+Images&isbn=null&publicationDate=28-31+March+2022&author=Xin+You%3B+Yun+Gu%3B+Yingying+Liu%3B+Steve+Lu%3B+Xin+Tang%3B+Jie+Yang&ContentID=10.1109/ISBI52829.2022.9761551&orderBeanReset=true&startPage=1&endPage=5&proceedingName=2022+IEEE+19th+International+Symposium+on+Biomedical+Imaging+%28ISBI%29",
+            "pdfSize": "1555",
+            "startPage": "1",
+            "downloadCount": 77,
+            "htmlLink": "/document/9761551/",
+            "endPage": "5",
+            "showHtml": true,
+            "publisher": "IEEE",
+            "handleProduct": false,
+            "showCheckbox": true,
+            "redline": false,
+            "contentType": "IEEE Conferences",
+            "highlightedTitle": "EG-Trans3DUNet: A Single-Staged Transformer-Based Model for Accurate Vertebrae Segmentation from Spinal Ct Images",
+            "publicationTitle": "2022 IEEE 19th International Symposium on Biomedical Imaging (ISBI)",
+            "displayPublicationTitle": "2022 IEEE 19th International Symposium on Biomedical Imaging (ISBI)",
+            "articleContentType": "Conferences",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9761551",
+            "abstract": "Multi-label vertebrae segmentation has been a fundamental research for spinal image analysis and surgical intervention. However, most existing methods have some drawbacks including poor boundary segmentation results and identification of the 25th vertebra. In this paper, we propose a single-staged network based on vision Transformer and UNet. Besides, we exert supervision on vertebrae Edges and in...",
+            "isStandard": false,
+            "isConference": true,
+            "isJournalAndMagazine": false,
+            "displayContentType": "Conference Paper",
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "isBookWithoutChapters": false,
+            "isEarlyAccess": false,
+            "isMagazine": false,
+            "docIdentifier": "IEEE Conferences"
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Rebeca Vétil",
+                    "normalizedName": "R. Vétil",
+                    "firstName": "Rebeca",
+                    "lastName": "Vétil",
+                    "searchablePreferredName": "Rebeca Vétil",
+                    "id": 37089368650
+                },
+                {
+                    "preferredName": "Alexandre Bône",
+                    "normalizedName": "A. Bône",
+                    "firstName": "Alexandre",
+                    "lastName": "Bône",
+                    "searchablePreferredName": "Alexandre Bône",
+                    "id": 37086565597
+                },
+                {
+                    "preferredName": "Marie-Pierre Vullierme",
+                    "normalizedName": "M. -P. Vullierme",
+                    "firstName": "Marie-Pierre",
+                    "lastName": "Vullierme",
+                    "searchablePreferredName": "Marie-Pierre Vullierme",
+                    "id": 37089370313
+                },
+                {
+                    "preferredName": "Marc-Michel Rohé",
+                    "normalizedName": "M. -M. Rohé",
+                    "firstName": "Marc-Michel",
+                    "lastName": "Rohé",
+                    "searchablePreferredName": "Marc-Michel Rohé",
+                    "id": 37085835392
+                },
+                {
+                    "preferredName": "Pietro Gori",
+                    "normalizedName": "P. Gori",
+                    "firstName": "Pietro",
+                    "lastName": "Gori",
+                    "searchablePreferredName": "Pietro Gori",
+                    "id": 37085891445
+                },
+                {
+                    "preferredName": "Isabelle Bloch",
+                    "normalizedName": "I. Bloch",
+                    "firstName": "Isabelle",
+                    "lastName": "Bloch",
+                    "searchablePreferredName": "Isabelle Bloch",
+                    "id": 37278035900
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
+            },
+            "publicationYear": "2022",
+            "publicationNumber": "9761376",
+            "documentLink": "/document/9761555/",
+            "articleNumber": "9761555",
+            "doi": "10.1109/ISBI52829.2022.9761555",
+            "citationCount": 0,
+            "isNumber": "9761399",
+            "showAlgorithm": false,
+            "showDataset": false,
+            "showVideo": false,
+            "ephemera": false,
+            "vj": false,
+            "articleTitle": "Improving the Automatic Segmentation of Elongated Organs Using Geometrical Priors",
+            "graphicalAbstract": {},
+            "publicationLink": "/xpl/conhome/9761376/proceeding",
+            "rightslinkFlag": true,
+            "publicationDate": "28-31 March 2022",
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Improving+the+Automatic+Segmentation+of+Elongated+Organs+Using+Geometrical+Priors&isbn=null&publicationDate=28-31+March+2022&author=Rebeca+V%C3%A9til%3B+Alexandre+B%C3%B4ne%3B+Marie-Pierre+Vullierme%3B+Marc-Michel+Roh%C3%A9%3B+Pietro+Gori%3B+Isabelle+Bloch&ContentID=10.1109/ISBI52829.2022.9761555&orderBeanReset=true&startPage=1&endPage=4&proceedingName=2022+IEEE+19th+International+Symposium+on+Biomedical+Imaging+%28ISBI%29",
+            "pdfSize": "2401",
+            "startPage": "1",
+            "downloadCount": 14,
+            "htmlLink": "/document/9761555/",
+            "endPage": "4",
+            "showHtml": true,
+            "publisher": "IEEE",
+            "handleProduct": false,
+            "showCheckbox": true,
+            "redline": false,
+            "contentType": "IEEE Conferences",
+            "highlightedTitle": "Improving the Automatic Segmentation of Elongated Organs Using Geometrical Priors",
+            "publicationTitle": "2022 IEEE 19th International Symposium on Biomedical Imaging (ISBI)",
+            "displayPublicationTitle": "2022 IEEE 19th International Symposium on Biomedical Imaging (ISBI)",
+            "articleContentType": "Conferences",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9761555",
+            "abstract": "Deep neural networks are widely used for automated organ segmentation as they achieve promising results for clinical applications. Some organs are more challenging to delineate than others, for instance due to low contrast at their boundaries. In this paper, we propose to improve the segmentation of elongated organs thanks to Geometrical Priors that can be introduced during training, using a local...",
+            "isStandard": false,
+            "isConference": true,
+            "isJournalAndMagazine": false,
+            "displayContentType": "Conference Paper",
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "isBookWithoutChapters": false,
+            "isEarlyAccess": false,
+            "isMagazine": false,
+            "docIdentifier": "IEEE Conferences"
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Weizhen Liu",
+                    "normalizedName": "W. Liu",
+                    "firstName": "Weizhen",
+                    "lastName": "Liu",
+                    "searchablePreferredName": "Weizhen Liu",
+                    "id": 37089370002
+                },
+                {
+                    "preferredName": "Qian He",
+                    "normalizedName": "Q. He",
+                    "firstName": "Qian",
+                    "lastName": "He",
+                    "searchablePreferredName": "Qian He",
+                    "id": 37087324568
+                },
+                {
+                    "preferredName": "Xuming He",
+                    "normalizedName": "X. He",
+                    "firstName": "Xuming",
+                    "lastName": "He",
+                    "searchablePreferredName": "Xuming He",
+                    "id": 37900363800
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
+            },
+            "publicationYear": "2022",
+            "publicationNumber": "9761376",
+            "documentLink": "/document/9761644/",
+            "articleNumber": "9761644",
+            "doi": "10.1109/ISBI52829.2022.9761644",
+            "citationCount": 0,
+            "isNumber": "9761399",
+            "showAlgorithm": false,
+            "showDataset": false,
+            "showVideo": false,
+            "ephemera": false,
+            "vj": false,
+            "articleTitle": "Weakly Supervised Nuclei Segmentation Via Instance Learning",
+            "graphicalAbstract": {},
+            "publicationLink": "/xpl/conhome/9761376/proceeding",
+            "rightslinkFlag": true,
+            "publicationDate": "28-31 March 2022",
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Weakly+Supervised+Nuclei+Segmentation+Via+Instance+Learning&isbn=null&publicationDate=28-31+March+2022&author=Weizhen+Liu%3B+Qian+He%3B+Xuming+He&ContentID=10.1109/ISBI52829.2022.9761644&orderBeanReset=true&startPage=1&endPage=5&proceedingName=2022+IEEE+19th+International+Symposium+on+Biomedical+Imaging+%28ISBI%29",
+            "pdfSize": "2354",
+            "startPage": "1",
+            "downloadCount": 66,
+            "htmlLink": "/document/9761644/",
+            "endPage": "5",
+            "showHtml": true,
+            "publisher": "IEEE",
+            "handleProduct": false,
+            "showCheckbox": true,
+            "redline": false,
+            "contentType": "IEEE Conferences",
+            "highlightedTitle": "Weakly Supervised Nuclei Segmentation Via Instance Learning",
+            "publicationTitle": "2022 IEEE 19th International Symposium on Biomedical Imaging (ISBI)",
+            "displayPublicationTitle": "2022 IEEE 19th International Symposium on Biomedical Imaging (ISBI)",
+            "articleContentType": "Conferences",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9761644",
+            "abstract": "Weakly supervised nuclei segmentation is a critical problem for pathological image analysis and greatly benefits the community due to the significant reduction of labeling cost. Adopting point annotations, previous methods mostly rely on less expressive representations for nuclei instances and thus have difficulty in handling crowded nuclei. In this paper, we propose to decouple weakly supervised ...",
+            "isStandard": false,
+            "isConference": true,
+            "isJournalAndMagazine": false,
+            "displayContentType": "Conference Paper",
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "isBookWithoutChapters": false,
+            "isEarlyAccess": false,
+            "isMagazine": false,
+            "docIdentifier": "IEEE Conferences"
+        },
+        {
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "ephemera",
+                "message": "Freely Available from IEEE"
+            },
+            "publicationYear": "2022",
+            "publicationNumber": "9761376",
+            "articleNumber": "9761645",
+            "doi": "10.1109/ISBI52829.2022.9761645",
+            "citationCount": 0,
+            "isNumber": "9761399",
+            "showAlgorithm": false,
+            "showDataset": false,
+            "showVideo": false,
+            "ephemera": true,
+            "vj": false,
+            "articleTitle": "Author Index",
+            "graphicalAbstract": {},
+            "publicationLink": "/xpl/conhome/9761376/proceeding",
+            "rightslinkFlag": true,
+            "publicationDate": "28-31 March 2022",
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Author+Index&isbn=null&publicationDate=28-31+March+2022&author=&ContentID=10.1109/ISBI52829.2022.9761645&orderBeanReset=true&startPage=72&endPage=84&proceedingName=2022+IEEE+19th+International+Symposium+on+Biomedical+Imaging+%28ISBI%29",
+            "pdfSize": "1609",
+            "startPage": "72",
+            "downloadCount": 12,
+            "htmlLink": "/document/9761645/",
+            "endPage": "84",
+            "showHtml": false,
+            "publisher": "IEEE",
+            "handleProduct": false,
+            "showCheckbox": true,
+            "redline": false,
+            "contentType": "IEEE Conferences",
+            "highlightedTitle": "Author Index",
+            "publicationTitle": "2022 IEEE 19th International Symposium on Biomedical Imaging (ISBI)",
+            "displayPublicationTitle": "2022 IEEE 19th International Symposium on Biomedical Imaging (ISBI)",
+            "articleContentType": "Conferences",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9761645",
+            "abstract": "Presents an index of the authors whose articles are published in the conference proceedings record.",
+            "isStandard": false,
+            "isConference": true,
+            "isJournalAndMagazine": false,
+            "displayContentType": "Conference Paper",
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "isBookWithoutChapters": false,
+            "isEarlyAccess": false,
+            "isMagazine": false,
+            "docIdentifier": "IEEE Conferences"
+        }
+    ],
+    "showStandardDictionary": true,
+    "searchType": "basic",
+    "totalRecords": 314,
+    "subscribedContentApplied": false,
+    "promoApplied": false,
+    "endRecord": 314,
+    "totalPages": 4,
+    "facets": [
+        {
+            "id": "Author",
+            "name": "Author",
+            "numRecords": -1,
+            "children": [
+                {
+                    "id": "Author:Yang Song",
+                    "name": "Yang Song",
+                    "numRecords": 6,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:He Zhao",
+                    "name": "He Zhao",
+                    "numRecords": 6,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Jiang Liu",
+                    "name": "Jiang Liu",
+                    "numRecords": 4,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Xiaoying Tang",
+                    "name": "Xiaoying Tang",
+                    "numRecords": 4,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Arcot Sowmya",
+                    "name": "Arcot Sowmya",
+                    "numRecords": 4,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Jie Tian",
+                    "name": "Jie Tian",
+                    "numRecords": 4,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Yan Hu",
+                    "name": "Yan Hu",
+                    "numRecords": 4,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Jiliu Zhou",
+                    "name": "Jiliu Zhou",
+                    "numRecords": 4,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Guanbin Li",
+                    "name": "Guanbin Li",
+                    "numRecords": 4,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Jean-Christophe Olivo-Marin",
+                    "name": "Jean-Christophe Olivo-Marin",
+                    "numRecords": 4,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Guorong Wu",
+                    "name": "Guorong Wu",
+                    "numRecords": 3,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Wenjun Xia",
+                    "name": "Wenjun Xia",
+                    "numRecords": 3,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Aleksei Tiulpin",
+                    "name": "Aleksei Tiulpin",
+                    "numRecords": 3,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Li Zhang",
+                    "name": "Li Zhang",
+                    "numRecords": 3,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Fan Zhang",
+                    "name": "Fan Zhang",
+                    "numRecords": 3,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Karl Rohr",
+                    "name": "Karl Rohr",
+                    "numRecords": 3,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Baiying Lei",
+                    "name": "Baiying Lei",
+                    "numRecords": 3,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Chenglu Zhu",
+                    "name": "Chenglu Zhu",
+                    "numRecords": 3,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Lei Guo",
+                    "name": "Lei Guo",
+                    "numRecords": 3,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Dan Ruan",
+                    "name": "Dan Ruan",
+                    "numRecords": 3,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Huiqi Li",
+                    "name": "Huiqi Li",
+                    "numRecords": 3,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Trung Bui",
+                    "name": "Trung Bui",
+                    "numRecords": 3,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Hu Chen",
+                    "name": "Hu Chen",
+                    "numRecords": 3,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Shichuan Zhang",
+                    "name": "Shichuan Zhang",
+                    "numRecords": 3,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Vince D. Calhoun",
+                    "name": "Vince D. Calhoun",
+                    "numRecords": 3,
+                    "active": "true"
+                }
+            ],
+            "active": "true"
+        },
+        {
+            "id": "Affiliation",
+            "name": "Affiliation",
+            "numRecords": -1,
+            "children": [
+                {
+                    "id": "Affiliation:School of Computer Science and Engineering, University of New South Wales, Australia",
+                    "name": "School of Computer Science and Engineering, University of New South Wales, Australia",
+                    "numRecords": 4,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:Department of Electronic and Electrical Engineering, Southern University of Science and Technology, Shenzhen, China",
+                    "name": "Department of Electronic and Electrical Engineering, Southern University of Science and Technology, Shenzhen, China",
+                    "numRecords": 4,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:College of Computer Science, Sichuan University, Chengdu, China",
+                    "name": "College of Computer Science, Sichuan University, Chengdu, China",
+                    "numRecords": 3,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:School of Artificial Intelligence, University of Chinese Academy of Sciences, Beijing, China",
+                    "name": "School of Artificial Intelligence, University of Chinese Academy of Sciences, Beijing, China",
+                    "numRecords": 3,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:Artificial Intelligence and Biomedical Image Analysis Lab, School of Engineering, Westlake University",
+                    "name": "Artificial Intelligence and Biomedical Image Analysis Lab, School of Engineering, Westlake University",
+                    "numRecords": 3,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:Institute of Advanced Technology, Westlake Institute for Advanced Study",
+                    "name": "Institute of Advanced Technology, Westlake Institute for Advanced Study",
+                    "numRecords": 3,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:Department of Engineering Science, Institute of Biomedical Engineering, University of Oxford, UK",
+                    "name": "Department of Engineering Science, Institute of Biomedical Engineering, University of Oxford, UK",
+                    "numRecords": 3,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:University of Chinese Academy of Sciences, Beijing, China",
+                    "name": "University of Chinese Academy of Sciences, Beijing, China",
+                    "numRecords": 3,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:National Key Laboratory of Fundamental Science on Synthetic Vision, Sichuan University, Chengdu, China",
+                    "name": "National Key Laboratory of Fundamental Science on Synthetic Vision, Sichuan University, Chengdu, China",
+                    "numRecords": 3,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:School of Computer Science and Engineering, Sun Yat-Sen University, Guangzhou, China",
+                    "name": "School of Computer Science and Engineering, Sun Yat-Sen University, Guangzhou, China",
+                    "numRecords": 3,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:Center for Data Science, Peking University, China",
+                    "name": "Center for Data Science, Peking University, China",
+                    "numRecords": 3,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:Dept. of Computer Science .AND. Engineering, Indian Institute of Technology Ropar, Punjab, India",
+                    "name": "Dept. of Computer Science & Engineering, Indian Institute of Technology Ropar, Punjab, India",
+                    "numRecords": 3,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:School of Cyber Science and Engineering, Sichuan University, Chengdu, China",
+                    "name": "School of Cyber Science and Engineering, Sichuan University, Chengdu, China",
+                    "numRecords": 3,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:Rabin Medical Center, Sackler Faculty of Medicine, Tel-Aviv University, Israel",
+                    "name": "Rabin Medical Center, Sackler Faculty of Medicine, Tel-Aviv University, Israel",
+                    "numRecords": 2,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:Department of Automation, Tsinghua University, Beijing, China",
+                    "name": "Department of Automation, Tsinghua University, Beijing, China",
+                    "numRecords": 2,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:General Practice and Care Coordination Research Group, Stavanger University Hospital, Norway",
+                    "name": "General Practice and Care Coordination Research Group, Stavanger University Hospital, Norway",
+                    "numRecords": 2,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:School of Automation, Northwestern Polytechnical University, Xi'an, China",
+                    "name": "School of Automation, Northwestern Polytechnical University, Xi'an, China",
+                    "numRecords": 2,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:Peking University First Hospital, Beijing, China",
+                    "name": "Peking University First Hospital, Beijing, China",
+                    "numRecords": 2,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:INSA-Lyon, UCBL, CNRS, Inserm, CREATIS UMR 5220, Université de Lyon, Villeurbanne, France",
+                    "name": "INSA-Lyon, UCBL, CNRS, Inserm, CREATIS UMR 5220, Université de Lyon, Villeurbanne, France",
+                    "numRecords": 2,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:Shanghai Key Lab of Digital Media Processing and Transmission, Shanghai Jiao Tong University",
+                    "name": "Shanghai Key Lab of Digital Media Processing and Transmission, Shanghai Jiao Tong University",
+                    "numRecords": 2,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:Department of Biomedical Engineering, Columbia University, New York, NY, USA",
+                    "name": "Department of Biomedical Engineering, Columbia University, New York, NY, USA",
+                    "numRecords": 2,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:Embedded Devices and Intelligent Systems, TCS Research, India",
+                    "name": "Embedded Devices and Intelligent Systems, TCS Research, India",
+                    "numRecords": 2,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:Biomedical Computer Vision Group, BioQuant, IPMB, Heidelberg University and DKFZ, Germany",
+                    "name": "Biomedical Computer Vision Group, BioQuant, IPMB, Heidelberg University and DKFZ, Germany",
+                    "numRecords": 2,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:Department of Radiology, Harvard Medical School, Massachusetts General Hospital, MGH/BWH Center for Clinical Data Science, Center for Advanced Medical Computing and Analysis, USA",
+                    "name": "Department of Radiology, Harvard Medical School, Massachusetts General Hospital, MGH/BWH Center for Clinical Data Science, Center for Advanced Medical Computing and Analysis, USA",
+                    "numRecords": 2,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:Faculty of Engineering, Bar-Ilan University, Ramat-Gan, Israel",
+                    "name": "Faculty of Engineering, Bar-Ilan University, Ramat-Gan, Israel",
+                    "numRecords": 2,
+                    "active": "true"
+                }
+            ],
+            "active": "true"
+        }
+    ],
+    "startRecord": 300
+}
