@@ -23,8 +23,42 @@ Repository for final project allocation and submission for CS60013 : Programming
 
 
 
-### Project 2 : 
-
+### Project 2 : Agriculture Crop Production Analysis
+1. This project aims to analyse the crop production data from 2006 to 2011 from all the states of India. The dataset is located in the `data/crop_production/` directory. 
+2. The data directory contains 5 csv files. Go through the data files and understand the data.
+3. Different data files contain different types of data. For example `datafile_1.csv` contains the following fields:
+    - `Crop` : Name of the crop
+    - `State` : Name of the state
+    - `Cost of Cultivation (/Hectare) A2+FL` : Cost of cultivation per hectare
+    - `Cost of Cultivation (/Hectare) C2` : Cost of cultivation per hectare
+    - `Cost of Production (/Quintal) C2` : Cost of production per quintal
+    - `Yield (Quintal/ Hectare)` : Yield per hectare
+4. The `datafile_2.csv` contains the following fields:
+    - `Crop` : Name of the crop
+    - `Production (YYYY - YY)` : Production of the crop between two consecutive years
+    - `Area (YYYY - YY)` : Area of the crop between two consecutive years
+    - `Yield (YYYY - YY)` : Yield of the crop between two consecutive years
+    
+5. Go through the data files and understand the data. You can use the `pandas` library to read the csv files and perform analysis on the data.
+6. The data files are not clean. You need to clean the data before you start analysing it.
+7. The project can be divided into the following parts:
+    - `Data Processing`
+        1. Writing the functions for reading the data files.
+        2. Once you have read the data files, you need to clean the data. You can use the `pandas` library to clean the data.
+        3. Only keep the data which is relevant to the analysis and drop the rest of the data.
+    - `Data Analysis`
+        1. In this part, you need to prepare a set of questions and answer them using the data provided.
+        2. Answer `at least 15 questions` using the data provided.
+        3. A few examples questions to get you started are as follows:
+            - Which `crop` has the `highest production` in the country?
+            - What are the major `states` where `rice` is grown?
+            - What is the `average cost of cultivation` of `rice` in the country?
+            - What are seasons where `Sunflower` is grown? (data availabe in `datafile_5.csv`)
+            - What is average crop duration for `Paddy`, `Wheat` and `Maize`?
+        4. You can come up with your own questions and answer them using the data provided.
+    - `Data Visualization`
+        1. Visualize the data using `matplotlib` or `seaborn` library.
+        2. Visualizing the data will help you understand the data better and answer the questions.
 
 
 
