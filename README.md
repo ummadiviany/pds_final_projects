@@ -3,15 +3,15 @@ Repository for final project allocation and submission for CS60013 : Programming
 
 ---
 ## Project Allocation
-|Group Name  |     Student Groups                            | Project Allotted               |
-|:----------:|:---------------------------------------------:|:-----------------------------:|
-|Group 1     | KAVINPURI@KGPIAN.IITKGP.AC.IN, SOUMITAGURIAPHD22@KGPIAN.IITKGP.AC.IN | Project 1 |
-|Group 2     | NAJAFARA.FATHIMA@KGPIAN.IITKGP.AC.IN, POOJA.JAIN@KGPIAN.IITKGP.AC.IN | [Project 4 : Medical Transcription Analysis](#project-4--medical-transcription-analysis) |
-|Group 3     | MAMTA.RANI@KGPIAN.IITKGP.AC.IN, BHANUMEENA27@KGPIAN.IITKGP.AC.IN | Project 1 |
-|Group 4     | DR.RAMKUMARKRISHNADHAS@KGPIAN.IITKGP.AC.IN, DRREFLEXPATEL94@KGPIAN.IITKGP.AC.IN | Project 1 |
-|Group 5     | KAMLESHTONY10@KGPIAN.IITKGP.AC.IN, DRPRABHUKALYAN@KGPIAN.IITKGP.AC.IN | Project 1 |
-|Group 6     | AMARMAJHI@KGPIAN.IITKGP.AC.IN, samriddha.das2000@kgpian.iitkgp.ac. | [Project 2 : Agriculture Crop Production Analysis](#project-2--agriculture-crop-production-analysis) |
-|Group 7     | SAURABHCHAUDHARI97@KGPIAN.IITKGP.AC.IN, SATHISHBT@KGPIAN.IITKGP.AC.IN  | [Project 3 : ISBI 2022 Accepted Submissions Analysis](#project-3--isbi-2022-accepted-submissions-analysis) |
+|Group Name  |     Student Identifiers                             | Project Allotted               | Mentor TA |
+|:----------:|:---------------------------------------------:|:-----------------------------:|:---------:|
+|Group 1     | KAVINPURI@KGPIAN.IITKGP.AC.IN, SOUMITAGURIAPHD22@KGPIAN.IITKGP.AC.IN | Project 1 | Sai Pavan |
+|Group 2     | NAJAFARA.FATHIMA@KGPIAN.IITKGP.AC.IN, POOJA.JAIN@KGPIAN.IITKGP.AC.IN | [Project 4 : Medical Transcription Analysis](#project-4--medical-transcription-analysis) | Vinay |
+|Group 3     | MAMTA.RANI@KGPIAN.IITKGP.AC.IN, BHANUMEENA27@KGPIAN.IITKGP.AC.IN | Project 1 | Sai Pavan |
+|Group 4     | DR.RAMKUMARKRISHNADHAS@KGPIAN.IITKGP.AC.IN, DRREFLEXPATEL94@KGPIAN.IITKGP.AC.IN | Project 1 | Sai Pavan |
+|Group 5     | KAMLESHTONY10@KGPIAN.IITKGP.AC.IN, DRPRABHUKALYAN@KGPIAN.IITKGP.AC.IN | Project 1 | Sai Pavan |
+|Group 6     | AMARMAJHI@KGPIAN.IITKGP.AC.IN, samriddha.das2000@kgpian.iitkgp.ac. | [Project 2 : Agriculture Crop Production Analysis](#project-2--agriculture-crop-production-analysis) | Vinay |
+|Group 7     | SAURABHCHAUDHARI97@KGPIAN.IITKGP.AC.IN, SATHISHBT@KGPIAN.IITKGP.AC.IN  | [Project 3 : ISBI 2022 Accepted Submissions Analysis](#project-3--isbi-2022-accepted-submissions-analysis) | Vinay |
 
 ---
 ## Projects
