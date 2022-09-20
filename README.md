@@ -11,6 +11,7 @@ Repository for final project allocation and submission for CS60013 : Programming
     - [Instructions to get started with the project](#instructions-to-get-started-with-the-project)
     - [What to submit](#what-to-submit)
     - [Submission Instructions](#submission-instructions)
+    - [Deadline](#deadline)
   - [Projects](#projects)
     - [Project 1 :](#project-1-)
     - [Project 2 : Agriculture Crop Production Analysis](#project-2--agriculture-crop-production-analysis)
@@ -90,6 +91,9 @@ Repository for final project allocation and submission for CS60013 : Programming
 2. Once you are done with the project, you can create a `Pull Request` to the `main` branch of the `github.com/ummadiviany/pds_final_projects` repository.
 3. We will review your merge request and provide feedback. You can make changes to your code and update the merge request. If accepted, your project will be merged to the `main` branch of the `github.com/ummadiviany/pds_final_projects` repository.
 4. That's it! `Congratulations!!` have successfully submitted your final project.
+
+### Deadline
+The deadline for the final project submission is `10th November 2022, 23:59 IST`.
 
 ---
 ## Projects
