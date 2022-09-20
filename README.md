@@ -1,17 +1,95 @@
-# pds_final_projects
+# Final Projects for CS60013 : Programming and Data Structures
 Repository for final project allocation and submission for CS60013 : Programming &; Data Structures offered in Autumn 2022 at IIT Kharagpur taught by Prof Subhamoy Mandal.
+
+**Deadline** for project submission is `10th November 2022 at 23:59 IST`.
+
+- [Final Projects for CS60013 : Programming and Data Structures](#final-projects-for-cs60013--programming-and-data-structures)
+  - [Project Allocation](#project-allocation)
+  - [Instructions](#instructions)
+    - [General Instructions](#general-instructions)
+    - [Evaluation Policy](#evaluation-policy)
+    - [Instructions to get started with the project](#instructions-to-get-started-with-the-project)
+    - [What to submit](#what-to-submit)
+    - [Submission Instructions](#submission-instructions)
+  - [Projects](#projects)
+    - [Project 1 :](#project-1-)
+    - [Project 2 : Agriculture Crop Production Analysis](#project-2--agriculture-crop-production-analysis)
+    - [Project 3 : ISBI 2022 Accepted Submissions Analysis](#project-3--isbi-2022-accepted-submissions-analysis)
+    - [Project 4 : Medical Transcription Analysis](#project-4--medical-transcription-analysis)
+    - [Project 5](#project-5)
+    - [Project 6](#project-6)
+    - [Project 7](#project-7)
 
 ---
 ## Project Allocation
-|Group Name  |     Student Identifiers                             | Project Allotted               | Mentor TA |
-|:----------:|:---------------------------------------------:|:-----------------------------:|:---------:|
-|Group 1     | KAVINPURI@KGPIAN.IITKGP.AC.IN, SOUMITAGURIAPHD22@KGPIAN.IITKGP.AC.IN | Project 1 | Sai Pavan |
-|Group 2     | NAJAFARA.FATHIMA@KGPIAN.IITKGP.AC.IN, POOJA.JAIN@KGPIAN.IITKGP.AC.IN | [Project 4 : Medical Transcription Analysis](#project-4--medical-transcription-analysis) | Vinay |
-|Group 3     | MAMTA.RANI@KGPIAN.IITKGP.AC.IN, BHANUMEENA27@KGPIAN.IITKGP.AC.IN | Project 1 | Sai Pavan |
-|Group 4     | DR.RAMKUMARKRISHNADHAS@KGPIAN.IITKGP.AC.IN, DRREFLEXPATEL94@KGPIAN.IITKGP.AC.IN | Project 1 | Sai Pavan |
-|Group 5     | KAMLESHTONY10@KGPIAN.IITKGP.AC.IN, DRPRABHUKALYAN@KGPIAN.IITKGP.AC.IN | Project 1 | Sai Pavan |
-|Group 6     | AMARMAJHI@KGPIAN.IITKGP.AC.IN, samriddha.das2000@kgpian.iitkgp.ac. | [Project 2 : Agriculture Crop Production Analysis](#project-2--agriculture-crop-production-analysis) | Vinay |
-|Group 7     | SAURABHCHAUDHARI97@KGPIAN.IITKGP.AC.IN, SATHISHBT@KGPIAN.IITKGP.AC.IN  | [Project 3 : ISBI 2022 Accepted Submissions Analysis](#project-3--isbi-2022-accepted-submissions-analysis) | Vinay |
+|     Student Identifiers                             | Project                |  Mentor TA    |
+|:---------------------------:|:-----------------------------:|:------------------:|
+| KAVINPURI@KGPIAN.IITKGP.AC.IN, SOUMITAGURIAPHD22@KGPIAN.IITKGP.AC.IN | Project 1 | Sai Pavan |
+| NAJAFARA.FATHIMA@KGPIAN.IITKGP.AC.IN, POOJA.JAIN@KGPIAN.IITKGP.AC.IN | [Project 4 : Medical Transcription Analysis](#project-4--medical-transcription-analysis) | Vinay |
+| MAMTA.RANI@KGPIAN.IITKGP.AC.IN, BHANUMEENA27@KGPIAN.IITKGP.AC.IN | Project 1 | Sai Pavan |
+| DR.RAMKUMARKRISHNADHAS@KGPIAN.IITKGP.AC.IN, DRREFLEXPATEL94@KGPIAN.IITKGP.AC.IN | Project 1 | Sai Pavan |
+| KAMLESHTONY10@KGPIAN.IITKGP.AC.IN, DRPRABHUKALYAN@KGPIAN.IITKGP.AC.IN | Project 1 | Sai Pavan |
+| AMARMAJHI@KGPIAN.IITKGP.AC.IN, samriddha.das2000@kgpian.iitkgp.ac. | [Project 2 : Agriculture Crop Production Analysis](#project-2--agriculture-crop-production-analysis) | Vinay |
+| SAURABHCHAUDHARI97@KGPIAN.IITKGP.AC.IN, SATHISHBT@KGPIAN.IITKGP.AC.IN  | [Project 3 : ISBI 2022 Accepted Submissions Analysis](#project-3--isbi-2022-accepted-submissions-analysis) | Vinay |
+
+---
+
+## Instructions
+
+### General Instructions
+1. The project is to be done in groups of 2 students. The students are expected to work together collaboratively.
+2. The choice of programming language is left to the students. However, the most common languages used are Python and C/C++.
+3. Each group will be assigned a mentor TA who will be responsible for guiding the group throughout the project.
+4. Meetings with the mentor TA will be scheduled at the beginning of the project and at regular intervals.
+5. Each student will be evaluated based on the contribution towards the project. Make sure you are contributing equally to the project.
+6. Code plagiarism will not be tolerated. Any submission found to be plagiarized will be awarded a zero grade. 
+7. Late submissions will not be accepted.
+### Evaluation Policy
+1. The final project evaluation is based on the following criteria:
+   1. `Continuous Evaluation (CE) : 40%`
+   2. `Code Quality and Documentation : 20%`
+   3. `Final Submission and Report : 40%` 
+2. `Continuous Evaluation (CE)` : 40%
+   - The CE will be based on the following criteria:
+      1. Your participation in the weekly meetings with your mentor TA.
+      2. Your weekly progress and updates on the project.
+3. `Code Quality and Documentation` : 20%
+   - This will be based on the following criteria:
+      1. Code Quality : 10% (based on the code quality and readability)
+      2. Documentation : 10% (based on the documentation of the code and the project)
+4. `Final Submission and Report` : 40%
+   - This will be based on the following criteria:
+      1. Final Submission : 20% (based on the final submission of the project)
+      2. Final Report : 20% (based on the final report of the project)
+5. CE will be evaluated if you have attended `at least 75%` of the weekly meetings with your mentor TA.
+
+
+### Instructions to get started with the project
+1. `Fork` this `github.com/ummadiviany/pds_final_projects` repository.
+2. `Clone` the forked repository to your local machine using the following command:
+   ```bash
+   git clone github.com/{your_username}/pds_final_projects
+   ```
+3. Your projects are in the `submissions` directory. You can find the project description in the README.md file of the respective project directory.
+4. Work on the project and make `regular commits` to your local repository and `push` them to your forked repository.
+5. Your mentor TA will review your code and provide feedback.
+
+### What to submit
+1. You have to submit the following:
+   1. `Final Code` : The final code of your project in the respective project directory. 
+      1. Code should be highly readable and well documented.
+      2. Try to write efficient code and avoid unnecessary code.
+   2. `Final Report` : The final report of your project in the respective project directory. The report should be in the form of a `markdown` file with the name `report.md`. The report should contain the following:
+      1. `Introduction` : A brief introduction of the project.
+      2. `Data` : A brief description of the data used in the project.
+      3. `Questions & Answers` : The questions and their respective answers. Also include the code snippets used to answer the questions and `who solved` the question.
+      4. `References` : The references used in the project.
+
+### Submission Instructions
+1. Submission of the final project will be done via `GitHub Pull Requests`.
+2. Once you are done with the project, you can create a `Pull Request` to the `main` branch of the `github.com/ummadiviany/pds_final_projects` repository.
+3. We will review your merge request and provide feedback. You can make changes to your code and update the merge request. If accepted, your project will be merged to the `main` branch of the `github.com/ummadiviany/pds_final_projects` repository.
+4. That's it! `Congratulations!!` have successfully submitted your final project.
 
 ---
 ## Projects
