@@ -13,23 +13,23 @@ Repository for final project allocation and submission for CS60013 : Programming
     - [Submission Instructions](#submission-instructions)
     - [Deadline](#deadline)
   - [Projects](#projects)
-    - [Project 1 :](#project-1-)
+    - [Project 1 : Objects of Chessboard](#project-1--objects-of-chessboard)
     - [Project 2 : Agriculture Crop Production Analysis](#project-2--agriculture-crop-production-analysis)
     - [Project 3 : ISBI 2022 Accepted Submissions Analysis](#project-3--isbi-2022-accepted-submissions-analysis)
     - [Project 4 : Medical Transcription Analysis](#project-4--medical-transcription-analysis)
-    - [Project 5](#project-5)
-    - [Project 6](#project-6)
-    - [Project 7](#project-7)
+    - [Project 5 : Patient Health Statistical Analysis](#project-5--patient-health-statistical-analysis)
+    - [Project 6 : Geometrical Objects Drawing & Visualization](#project-6--geometrical-objects-drawing--visualization)
+    - [Project 7 : Medical Image statistics and Data Visualization](#project-7--medical-image-statistics-and-data-visualization)
 
 ---
 ## Project Allocation
 |     Student Identifiers                             | Project                |  Mentor TA    |
 |:---------------------------:|:-----------------------------:|:------------------:|
-| KAVINPURI@KGPIAN.IITKGP.AC.IN, SOUMITAGURIAPHD22@KGPIAN.IITKGP.AC.IN | Project 1 | Sai Pavan |
+| KAVINPURI@KGPIAN.IITKGP.AC.IN, SOUMITAGURIAPHD22@KGPIAN.IITKGP.AC.IN | [Project 1 : Objects of Chessboard](#project-1--objects-of-chessboard) | Sai Pavan |
 | NAJAFARA.FATHIMA@KGPIAN.IITKGP.AC.IN, POOJA.JAIN@KGPIAN.IITKGP.AC.IN | [Project 4 : Medical Transcription Analysis](#project-4--medical-transcription-analysis) | Vinay |
-| MAMTA.RANI@KGPIAN.IITKGP.AC.IN, BHANUMEENA27@KGPIAN.IITKGP.AC.IN | Project 1 | Sai Pavan |
-| DR.RAMKUMARKRISHNADHAS@KGPIAN.IITKGP.AC.IN, DRREFLEXPATEL94@KGPIAN.IITKGP.AC.IN | Project 1 | Sai Pavan |
-| KAMLESHTONY10@KGPIAN.IITKGP.AC.IN, DRPRABHUKALYAN@KGPIAN.IITKGP.AC.IN | Project 1 | Sai Pavan |
+| MAMTA.RANI@KGPIAN.IITKGP.AC.IN, BHANUMEENA27@KGPIAN.IITKGP.AC.IN | [Project 6 : Geometrical Objects Drawing & Visualization](#project-6--geometrical-objects-drawing--visualization) | Sai Pavan |
+| DR.RAMKUMARKRISHNADHAS@KGPIAN.IITKGP.AC.IN, DRREFLEXPATEL94@KGPIAN.IITKGP.AC.IN | [Project 5 : Patient Health Statistical Analysis](#project-5--patient-health-statistical-analysis) | Sai Pavan |
+| KAMLESHTONY10@KGPIAN.IITKGP.AC.IN, DRPRABHUKALYAN@KGPIAN.IITKGP.AC.IN | [Project 7 : Medical Image statistics and Data Visualization](#project-7--medical-image-statistics-and-data-visualization) | Sai Pavan |
 | AMARMAJHI@KGPIAN.IITKGP.AC.IN, samriddha.das2000@kgpian.iitkgp.ac. | [Project 2 : Agriculture Crop Production Analysis](#project-2--agriculture-crop-production-analysis) | Vinay |
 | SAURABHCHAUDHARI97@KGPIAN.IITKGP.AC.IN, SATHISHBT@KGPIAN.IITKGP.AC.IN  | [Project 3 : ISBI 2022 Accepted Submissions Analysis](#project-3--isbi-2022-accepted-submissions-analysis) | Vinay |
 
@@ -124,14 +124,6 @@ The deadline for the final project submission is `10th November 2022, 23:59 IST`
       - `basics of Python` :
       - `About Chessboard basics` :
       - `For the documentatioon ` :
-
-
-
-
-
-
-
-
 
 
 
@@ -236,7 +228,7 @@ The deadline for the final project submission is `10th November 2022, 23:59 IST`
 
 
 
-### Project 5
+### Project 5 : Patient Health Statistical Analysis
 
 1. Create a .csv file which contain the following information
 
@@ -274,19 +266,16 @@ The deadline for the final project submission is `10th November 2022, 23:59 IST`
 
 
 
-### Project 6
+### Project 6 : Geometrical Objects Drawing & Visualization
 1. create a class with the following instances
-
-      -`Image` : name the image    ## string
-      -`Shape` : shape of the image ## tuple
-      -`ZeroMatrix` : zero matrix with shape as mentioned 
-2.create the objcte with the following names
-
-      -`circle` : 
-      -'Rectangle' :
-      -'Triangle' :
-3. write the methods for the following 
-
+   - `Image` : name the image    ## string
+   - `Shape` : shape of the image ## tuple
+   - `ZeroMatrix` : zero matrix with shape as mentioned 
+2. Write classes for the following geometrical shapes
+   - `Circle`  
+   - `Rectangle` 
+   - `Triangle` 
+3. Write the methods for the following 
       - Method to make or draw `circle` shape
       - Method to make or draw `rectangle`
       - Method to make or draw `Triangle`
@@ -295,21 +284,20 @@ The deadline for the final project submission is `10th November 2022, 23:59 IST`
 
       - `Example` : (0,0) location is 0, (1,1) location is 257 
    
-4. Visualize the data using python library functions
+5. Visualize the data using python library functions
 
-5. `Calculate` the `area` of the objects and comment on your observations
+6. `Calculate` the `area` of the objects and comment on your observations
 
-### Project 7 Medical Image statistics and data visualization
+### Project 7 : Medical Image statistics and Data Visualization
 
 1. write a program to read the MRI and CT images in the given folder
 2. visualize the data using python library functions
 3. create class of 10 object for each ten images and create following instances to store the data
 
-         a.Patient_Name  - must be initialized as Private member
-         b.Max intensity - max value in the image - Public member
-         c.Min intensity - min value in the image - Public member
-         d.Average intensity - Average value in the image - Public member
-         e.Median intensity - median value in the image - Public member
-
-         
+   - Patient_Name  - must be initialized as Private member
+   - Max intensity - max value in the image - Public member
+   - Min intensity - min value in the image - Public member
+   - Average intensity - Average value in the image - Public member
+   - Median intensity - median value in the image - Public member
+  
 4.Plot the histogram of the all 10 images and mention your observations clearly.
