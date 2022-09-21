@@ -99,7 +99,37 @@ The deadline for the final project submission is `10th November 2022, 23:59 IST`
 ## Projects
 
 
-### Project 1 : 
+### Project 1 : Objects of Chessboard
+
+1. Create a 'super' class with the following data
+
+       a. King 
+       b. Rook
+       c. Pawn
+       d. Bishop
+       e. Position Matrix 
+       
+2. Create the objects with Black and white and update their properties      accordingly as mentioned in the document.
+
+3. Create the methods for `Pawn` 
+
+      - To `move ` the object from one position to another position
+      - To `Update` the possible moves for the next step
+      - and To `update` the `Position Matrix` after an action
+   
+4. Show the results for any one of the moves of  `King` or `Bishop` or `Rook`  From one position to another and the respective changes your algorithm made.
+
+5. You need to use different types of sequences to store and manipulate.
+
+      - `basics of Python` :
+      - `About Chessboard basics` :
+      - `For the documentatioon ` :
+
+
+
+
+
+
 
 
 
@@ -208,14 +238,78 @@ The deadline for the final project submission is `10th November 2022, 23:59 IST`
 
 ### Project 5
 
+1. Create a .csv file which contain the following information
+
+      - create an attribute with name `patient` Ten names of your friends or Random names-`string` format
+      - add the attribute `patient Identifier` and assign 1 to 10 digits for each person-integer format.
+      - add the attribute `Height` and add the respective heights in `float` format
+
+            {5.5,5.6,6.1,6.1,6.0,5.9,5.8,5.8,5.8,9.1}  Float format
+
+      - add the attribute `Temperature` and add the respective heights in `float` format
+
+            {97.2,97.3,97.8,98,98.1,98.2,97.3,98,101,102}  Float format
+
+      - add the attribute '`disease` and assign the following as per their patient identifier
+
+            Randomly assign the disease to patients with the following
+              {Headeach ,cold ,fever}
+
+      - add the attribute `Hospital` and assign the following as per the patient identifier randomly.
+
+      - add the attribute `Cost` and assign the following as per the patient identifier randomly.
+
+            {20.0,1000.0,800.0,910.0,950.0,980.0,990.0,890.0,880.0,930.0}  Float format
+
+2. Obtain the statistics from the dataset you created
+      - Now create the class to represent the same above data
+      - create the methods to calculate the statistics
+            
+            Mean ,Median ,Mode of 'Height'
+            Mean ,Median ,Mode of 'Cost'
+            Mean ,Median ,Mode of 'Temperature'
+3. comment on the statistic calculations and clearly mention your observation 
+          
+         Note: This section may hold high weightage so write the observations in short and specific to point.
 
 
 
 ### Project 6
+1. create a class with the following instances
 
+      -`Image` : name the image    ## string
+      -`Shape` : shape of the image ## tuple
+      -`ZeroMatrix` : zero matrix with shape as mentioned 
+2.create the objcte with the following names
 
+      -`circle` : 
+      -'Rectangle' :
+      -'Triangle' :
+3. write the methods for the following 
 
+      - Method to make or draw `circle` shape
+      - Method to make or draw `rectangle`
+      - Method to make or draw `Triangle`
+      - Method to draw `all shapes` in one single image
+4. Write the Method or function using `recursive` call (your own choice) to mark the `febninacci` locations(all below 400) of the objects.
 
-### Project 7
+      - `Example` : (0,0) location is 0, (1,1) location is 257 
+   
+4. Visualize the data using python library functions
 
+5. `Calculate` the `area` of the objects and comment on your observations
 
+### Project 7 Medical Image statistics and data visualization
+
+1. write a program to read the MRI and CT images in the given folder
+2. visualize the data using python library functions
+3. create class of 10 object for each ten images and create following instances to store the data
+
+         a.Patient_Name  - must be initialized as Private member
+         b.Max intensity - max value in the image - Public member
+         c.Min intensity - min value in the image - Public member
+         d.Average intensity - Average value in the image - Public member
+         e.Median intensity - median value in the image - Public member
+
+         
+4.Plot the histogram of the all 10 images and mention your observations clearly.
