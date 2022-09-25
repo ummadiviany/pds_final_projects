@@ -1,10 +1,13 @@
 # Final Projects for CS60013 : Programming and Data Structures
-Repository for final project allocation and submission for CS60013 : Programming &; Data Structures offered in Autumn 2022 at IIT Kharagpur taught by Prof Subhamoy Mandal.
+> Repository for final project allocation and submission for CS60013 : Programming &; Data Structures offered in Autumn 2022 at IIT Kharagpur taught by [Prof Subhamoy Mandal](https://sites.google.com/site/smandalbiomed/home).
 
-**Deadline** for project submission is `10th November 2022 at 23:59 IST`.
+> **Deadline** for project submission is **10th November 2022 at 23:59 IST**.
+
+> This repository might be updated with new projects and/or changes to existing projects. Please check back regularly.
+
+> Final projects are crafted by [Vinay](https://ummadiviany.github.io/) and [Sai Pavan](https://saipavan-tadem.github.io/) and approved by [Prof Subhamoy Mandal](https://sites.google.com/site/smandalbiomed/home).
 
 - [Final Projects for CS60013 : Programming and Data Structures](#final-projects-for-cs60013--programming-and-data-structures)
-  - [Project Allocation](#project-allocation)
   - [Instructions](#instructions)
     - [General Instructions](#general-instructions)
     - [Evaluation Policy](#evaluation-policy)
@@ -12,6 +15,7 @@ Repository for final project allocation and submission for CS60013 : Programming
     - [What to submit](#what-to-submit)
     - [Submission Instructions](#submission-instructions)
     - [Deadline](#deadline)
+  - [Project Allocation](#project-allocation)
   - [Projects](#projects)
     - [Project 1 : Objects of Chessboard](#project-1--objects-of-chessboard)
     - [Project 2 : Agriculture Crop Production Analysis](#project-2--agriculture-crop-production-analysis)
@@ -20,20 +24,11 @@ Repository for final project allocation and submission for CS60013 : Programming
     - [Project 5 : Patient Health Statistical Analysis](#project-5--patient-health-statistical-analysis)
     - [Project 6 : Geometrical Objects Drawing & Visualization](#project-6--geometrical-objects-drawing--visualization)
     - [Project 7 : Medical Image statistics and Data Visualization](#project-7--medical-image-statistics-and-data-visualization)
+  - [Resources](#resources)
+  - [All the best!](#all-the-best)
 
 ---
-## Project Allocation
-|     Student Identifiers                             | Project                |  Mentor TA    |
-|:---------------------------:|:-----------------------------:|:------------------:|
-| KAVINPURI@KGPIAN.IITKGP.AC.IN, SOUMITAGURIAPHD22@KGPIAN.IITKGP.AC.IN | [Project 1 : Objects of Chessboard](#project-1--objects-of-chessboard) | Sai Pavan |
-| NAJAFARA.FATHIMA@KGPIAN.IITKGP.AC.IN, POOJA.JAIN@KGPIAN.IITKGP.AC.IN | [Project 4 : Medical Transcription Analysis](#project-4--medical-transcription-analysis) | Vinay |
-| MAMTA.RANI@KGPIAN.IITKGP.AC.IN, BHANUMEENA27@KGPIAN.IITKGP.AC.IN | [Project 6 : Geometrical Objects Drawing & Visualization](#project-6--geometrical-objects-drawing--visualization) | Sai Pavan |
-| DR.RAMKUMARKRISHNADHAS@KGPIAN.IITKGP.AC.IN, DRREFLEXPATEL94@KGPIAN.IITKGP.AC.IN | [Project 5 : Patient Health Statistical Analysis](#project-5--patient-health-statistical-analysis) | Sai Pavan |
-| KAMLESHTONY10@KGPIAN.IITKGP.AC.IN, DRPRABHUKALYAN@KGPIAN.IITKGP.AC.IN | [Project 7 : Medical Image statistics and Data Visualization](#project-7--medical-image-statistics-and-data-visualization) | Sai Pavan |
-| AMARMAJHI@KGPIAN.IITKGP.AC.IN, samriddha.das2000@kgpian.iitkgp.ac. | [Project 2 : Agriculture Crop Production Analysis](#project-2--agriculture-crop-production-analysis) | Vinay |
-| SAURABHCHAUDHARI97@KGPIAN.IITKGP.AC.IN, SATHISHBT@KGPIAN.IITKGP.AC.IN  | [Project 3 : ISBI 2022 Accepted Submissions Analysis](#project-3--isbi-2022-accepted-submissions-analysis) | Vinay |
 
----
 
 ## Instructions
 
@@ -93,9 +88,19 @@ Repository for final project allocation and submission for CS60013 : Programming
 4. That's it! `Congratulations!!` have successfully submitted your final project.
 
 ### Deadline
-The deadline for the final project submission is `10th November 2022, 23:59 IST`.
+The deadline for the final project submission is **10th November 2022, 23:59 IST**.
 
----
+## Project Allocation
+|     Student Identifiers                             | Project                |  Mentor TA    |
+|:---------------------------:|:-----------------------------:|:------------------:|
+| KAVINPURI@KGPIAN.IITKGP.AC.IN, SOUMITAGURIAPHD22@KGPIAN.IITKGP.AC.IN | [Project 1 : Objects of Chessboard](#project-1--objects-of-chessboard) | Sai Pavan |
+| NAJAFARA.FATHIMA@KGPIAN.IITKGP.AC.IN, POOJA.JAIN@KGPIAN.IITKGP.AC.IN | [Project 4 : Medical Transcription Analysis](#project-4--medical-transcription-analysis) | Vinay |
+| MAMTA.RANI@KGPIAN.IITKGP.AC.IN, BHANUMEENA27@KGPIAN.IITKGP.AC.IN | [Project 6 : Geometrical Objects Drawing & Visualization](#project-6--geometrical-objects-drawing--visualization) | Sai Pavan |
+| DR.RAMKUMARKRISHNADHAS@KGPIAN.IITKGP.AC.IN, DRREFLEXPATEL94@KGPIAN.IITKGP.AC.IN | [Project 5 : Patient Health Statistical Analysis](#project-5--patient-health-statistical-analysis) | Sai Pavan |
+| KAMLESHTONY10@KGPIAN.IITKGP.AC.IN, DRPRABHUKALYAN@KGPIAN.IITKGP.AC.IN | [Project 7 : Medical Image statistics and Data Visualization](#project-7--medical-image-statistics-and-data-visualization) | Sai Pavan |
+| AMARMAJHI@KGPIAN.IITKGP.AC.IN, samriddha.das2000@kgpian.iitkgp.ac. | [Project 2 : Agriculture Crop Production Analysis](#project-2--agriculture-crop-production-analysis) | Vinay |
+| SAURABHCHAUDHARI97@KGPIAN.IITKGP.AC.IN, SATHISHBT@KGPIAN.IITKGP.AC.IN  | [Project 3 : ISBI 2022 Accepted Submissions Analysis](#project-3--isbi-2022-accepted-submissions-analysis) | Vinay |
+
 ## Projects
 
 
@@ -300,4 +305,16 @@ The deadline for the final project submission is `10th November 2022, 23:59 IST`
    - Average intensity - Average value in the image - Public member
    - Median intensity - median value in the image - Public member
   
-4.Plot the histogram of the all 10 images and mention your observations clearly.
+4. Plot the histogram of the all 10 images and mention your observations clearly.
+
+## Resources
+1. [Python Documentation](https://docs.python.org/3/)
+2. [Class Code Materials](https://github.com/ummadiviany/pds_snippets/)
+3. [Introduction to Computation and Programming Using Python](https://mitpress.mit.edu/9780262542364/introduction-to-computation-and-programming-using-python/)
+4. [Elements of Programming Interviews in Python]()
+5. Python Libraries
+   1. [Matplotlib : For awesome visualizations](https://matplotlib.org/)
+   2. [Pandas : For data analysis](https://pandas.pydata.org/)
+   3. [Numpy : For numerical computations](https://numpy.org/)
+
+## All the best!
