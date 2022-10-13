@@ -1,10 +1,13 @@
 # Final Projects for CS60013 : Programming and Data Structures
-Repository for final project allocation and submission for CS60013 : Programming &; Data Structures offered in Autumn 2022 at IIT Kharagpur taught by Prof Subhamoy Mandal.
+> Repository for final project allocation and submission for CS60013 : Programming &; Data Structures offered in Autumn 2022 at IIT Kharagpur taught by [Prof Subhamoy Mandal](https://sites.google.com/site/smandalbiomed/home).
 
-**Deadline** for project submission is `10th November 2022 at 23:59 IST`.
+> **Deadline** for project submission is **10th November 2022 at 23:59 IST**.
+
+> This repository might be updated with new projects and/or changes to existing projects. Please check back regularly.
+
+> Final projects are crafted by [Vinay](https://ummadiviany.github.io/) and [Sai Pavan](https://saipavan-tadem.github.io/) and approved by [Prof Subhamoy Mandal](https://sites.google.com/site/smandalbiomed/home).
 
 - [Final Projects for CS60013 : Programming and Data Structures](#final-projects-for-cs60013--programming-and-data-structures)
-  - [Project Allocation](#project-allocation)
   - [Instructions](#instructions)
     - [General Instructions](#general-instructions)
     - [Evaluation Policy](#evaluation-policy)
@@ -12,33 +15,23 @@ Repository for final project allocation and submission for CS60013 : Programming
     - [What to submit](#what-to-submit)
     - [Submission Instructions](#submission-instructions)
     - [Deadline](#deadline)
+  - [Project Allocation](#project-allocation)
   - [Projects](#projects)
-    - [Project 1 : Objects of Chessboard](#project-1--objects-of-chessboard)
+    - [Project 1 : Medical Transcription Analysis](#project-1--medical-transcription-analysis)
     - [Project 2 : Agriculture Crop Production Analysis](#project-2--agriculture-crop-production-analysis)
     - [Project 3 : ISBI 2022 Accepted Submissions Analysis](#project-3--isbi-2022-accepted-submissions-analysis)
-    - [Project 4 : Medical Transcription Analysis](#project-4--medical-transcription-analysis)
+    - [Project 4 : Medical Image Visualization and Analysis](#project-4--medical-image-visualization-and-analysis)
     - [Project 5 : Patient Health Statistical Analysis](#project-5--patient-health-statistical-analysis)
-    - [Project 6 : Geometrical Objects Drawing & Visualization](#project-6--geometrical-objects-drawing--visualization)
-    - [Project 7 : Medical Image statistics and Data Visualization](#project-7--medical-image-statistics-and-data-visualization)
+  - [Resources](#resources)
+  - [All the best!](#all-the-best)
 
 ---
-## Project Allocation
-|     Student Identifiers                             | Project                |  Mentor TA    |
-|:---------------------------:|:-----------------------------:|:------------------:|
-| KAVINPURI@KGPIAN.IITKGP.AC.IN, SOUMITAGURIAPHD22@KGPIAN.IITKGP.AC.IN | [Project 1 : Objects of Chessboard](#project-1--objects-of-chessboard) | Sai Pavan |
-| NAJAFARA.FATHIMA@KGPIAN.IITKGP.AC.IN, POOJA.JAIN@KGPIAN.IITKGP.AC.IN | [Project 4 : Medical Transcription Analysis](#project-4--medical-transcription-analysis) | Vinay |
-| MAMTA.RANI@KGPIAN.IITKGP.AC.IN, BHANUMEENA27@KGPIAN.IITKGP.AC.IN | [Project 6 : Geometrical Objects Drawing & Visualization](#project-6--geometrical-objects-drawing--visualization) | Sai Pavan |
-| DR.RAMKUMARKRISHNADHAS@KGPIAN.IITKGP.AC.IN, DRREFLEXPATEL94@KGPIAN.IITKGP.AC.IN | [Project 5 : Patient Health Statistical Analysis](#project-5--patient-health-statistical-analysis) | Sai Pavan |
-| KAMLESHTONY10@KGPIAN.IITKGP.AC.IN, DRPRABHUKALYAN@KGPIAN.IITKGP.AC.IN | [Project 7 : Medical Image statistics and Data Visualization](#project-7--medical-image-statistics-and-data-visualization) | Sai Pavan |
-| AMARMAJHI@KGPIAN.IITKGP.AC.IN, samriddha.das2000@kgpian.iitkgp.ac. | [Project 2 : Agriculture Crop Production Analysis](#project-2--agriculture-crop-production-analysis) | Vinay |
-| SAURABHCHAUDHARI97@KGPIAN.IITKGP.AC.IN, SATHISHBT@KGPIAN.IITKGP.AC.IN  | [Project 3 : ISBI 2022 Accepted Submissions Analysis](#project-3--isbi-2022-accepted-submissions-analysis) | Vinay |
 
----
 
 ## Instructions
 
 ### General Instructions
-1. The project is to be done in groups of 2 students. The students are expected to work together collaboratively.
+1. The project is to be done in groups of 3 students except (5th group). The students are expected to work together collaboratively.
 2. The choice of programming language is left to the students. However, the most common languages used are Python and C/C++.
 3. Each group will be assigned a mentor TA who will be responsible for guiding the group throughout the project.
 4. Meetings with the mentor TA will be scheduled at the beginning of the project and at regular intervals.
@@ -93,39 +86,48 @@ Repository for final project allocation and submission for CS60013 : Programming
 4. That's it! `Congratulations!!` have successfully submitted your final project.
 
 ### Deadline
-The deadline for the final project submission is `10th November 2022, 23:59 IST`.
+The deadline for the final project submission is **10th November 2022, 23:59 IST**.
+
+## Project Allocation
+|     Students                            | Project                |  Mentor TA    |
+|:---------------------------:|:-----------------------------:|:------------------:|
+| Amar Majhi, Mamta Rani, Reflex Kumar Patel| [Project 4 : Medical Image Visualization and Analysis](#project-4--medical-image-visualization-and-analysis) | Sai Pavan |
+| Bhanu Kumar Meena, Syeda Najafara Fathima, Kavin Puri | [Project 1 : Medical Transcription Analysis](#project-1--medical-transcription-analysis) | Vinay |
+| Pooja P Jain, Sathishkumar S, P.V.Kamlesh | [Project 3 : ISBI 2022 Accepted Submissions Analysis](#project-3--isbi-2022-accepted-submissions-analysis) | Vinay |
+| Ramkumar K, Chaudhari Saurabh Santosh, Samriddha Das | [Project 2 : Agriculture Crop Production Analysis](#project-2--agriculture-crop-production-analysis) | Vinay |
+| Prabhukalyan Dash, Soumita Guria | [Project 5 : Patient Health Statistical Analysis](#project-5--patient-health-statistical-analysis) | Sai Pavan |
 
 ---
 ## Projects
 
-
-### Project 1 : Objects of Chessboard
-
-1. Create a 'super' class with the following data
-
-       a. King 
-       b. Rook
-       c. Pawn
-       d. Bishop
-       e. Position Matrix 
-       
-2. Create the objects with Black and white and update their properties      accordingly as mentioned in the document.
-
-3. Create the methods for `Pawn` 
-
-      - To `move ` the object from one position to another position
-      - To `Update` the possible moves for the next step
-      - and To `update` the `Position Matrix` after an action
-   
-4. Show the results for any one of the moves of  `King` or `Bishop` or `Rook`  From one position to another and the respective changes your algorithm made.
-
-5. You need to use different types of sequences to store and manipulate.
-
-      - `basics of Python` :
-      - `About Chessboard basics` :
-      - `For the documentatioon ` :
-
-
+### Project 1 : Medical Transcription Analysis
+1. The project aims to analyse the medical transcription dataset. The dataset is located in the `data/medical_transcriptions/mtsamples.csv` directory.
+2. The dataset is a `csv` file. `CSV` stands for `C`omma `S`eparated `V`alues. It is a simple file format used to store tabular data, such as a spreadsheet or database. Each line of the file is a data record. Each record consists of one or more fields, separated by commas. The use of the comma as a field separator is the source of the name for this file format.
+3. The dataset contains following fields : 
+   - `description` : Short brief of the interaction between the patient and the doctor.
+   - `medical_specialty` : Medical specialty of the issue discussed in the transcription. 
+   - `sample_name` : Medical Samples used for the diagnosis.
+   - `transcription` : Full transcription of the interaction between the patient and the doctor.
+   - `keywords` : Keywords of the transcription
+4. The project can be divided into sub-areas as follows : 
+   - `Data Preprocessing`
+        1. Write functions to read the csv file. Suggestion : Use the `pandas` library.
+        2. This dataset needs bit of pre-processing. The `medical_specialty` field contains multiple values. You need to split the values and create a list of values. For example, if the `medical_specialty` field contains `Orthopedics, Neurology`, then you need to split it into `['Orthopedics', 'Neurology']`.
+        3. The keywords field contains multiple values. You need to split the values and transform it into a list of values. For example, if the `keywords` field contains `'pain, headache, migraine'`, then you need to split it into `['pain', 'headache', 'migraine']`.
+        4. Look into the dataset and find out if there are any other fields that need to be pre-processed.
+   - `Data Analysis`
+        1. In this part you can prepare a set of questions at least 10 and answer them using the dataset.
+        2. Some examples questions to get you started:
+            * What is the `most common` medical specialty?
+            * What is the `most common` medical sample?
+            * What is the `most common` keyword?
+            * What is the `average` length of the transcription?
+            * What is the `average` length of the description?
+            * What is the `average` length of the keywords?
+            * And so on... Get creative and come up with your own questions.
+   - `Data Visualization`
+        1. In this part you can make use of the `matplotlib` and `seaborn` libraries to visualize the answers to the questions you asked in the previous part.
+        2. Everyone likes to see the results in the form of `graphs` and `charts`. So, make sure you visualize the answers to the questions you asked in the previous part.
 
 ### Project 2 : Agriculture Crop Production Analysis
 1. This project aims to analyse the crop production data from 2006 to 2011 from all the states of India. The dataset is located in the `data/crop_production/` directory. 
@@ -165,7 +167,6 @@ The deadline for the final project submission is `10th November 2022, 23:59 IST`
         2. Visualizing the data will help you understand the data better and answer the questions.
 
 
-
 ### Project 3 : ISBI 2022 Accepted Submissions Analysis
 1. The project aims to analyse the accepted submissions of ISBI 2022. The dataset is located in the `data/isbi2022/` directory. 
 2. The dataset comprised of multiple `json` files. `JSON` stands for `J`avaScript `O`bject `N`otation. It is a lightweight data-interchange format. It is easy for humans to read and write. 
@@ -197,36 +198,32 @@ The deadline for the final project submission is `10th November 2022, 23:59 IST`
         2. Everyone likes to see the results in the form of `graphs` and `charts`. So, make sure you visualize the answers to the questions you asked in the previous part.
    
 
-### Project 4 : Medical Transcription Analysis
-1. The project aims to analyse the medical transcription dataset. The dataset is located in the `data/medical_transcriptions/mtsamples.csv` directory.
-2. The dataset is a `csv` file. `CSV` stands for `C`omma `S`eparated `V`alues. It is a simple file format used to store tabular data, such as a spreadsheet or database. Each line of the file is a data record. Each record consists of one or more fields, separated by commas. The use of the comma as a field separator is the source of the name for this file format.
-3. The dataset contains following fields : 
-   - `description` : Short brief of the interaction between the patient and the doctor.
-   - `medical_specialty` : Medical specialty of the issue discussed in the transcription. 
-   - `sample_name` : Medical Samples used for the diagnosis.
-   - `transcription` : Full transcription of the interaction between the patient and the doctor.
-   - `keywords` : Keywords of the transcription
-4. The project can be divided into sub-areas as follows : 
-   - `Data Preprocessing`
-        1. Write functions to read the csv file. Suggestion : Use the `pandas` library.
-        2. This dataset needs bit of pre-processing. The `medical_specialty` field contains multiple values. You need to split the values and create a list of values. For example, if the `medical_specialty` field contains `Orthopedics, Neurology`, then you need to split it into `['Orthopedics', 'Neurology']`.
-        3. The keywords field contains multiple values. You need to split the values and transform it into a list of values. For example, if the `keywords` field contains `'pain, headache, migraine'`, then you need to split it into `['pain', 'headache', 'migraine']`.
-        4. Look into the dataset and find out if there are any other fields that need to be pre-processed.
-   - `Data Analysis`
-        1. In this part you can prepare a set of questions at least 10 and answer them using the dataset.
-        2. Some examples questions to get you started:
-            * What is the `most common` medical specialty?
-            * What is the `most common` medical sample?
-            * What is the `most common` keyword?
-            * What is the `average` length of the transcription?
-            * What is the `average` length of the description?
-            * What is the `average` length of the keywords?
-            * And so on... Get creative and come up with your own questions.
-   - `Data Visualization`
-        1. In this part you can make use of the `matplotlib` and `seaborn` libraries to visualize the answers to the questions you asked in the previous part.
-        2. Everyone likes to see the results in the form of `graphs` and `charts`. So, make sure you visualize the answers to the questions you asked in the previous part.
-
-
+### Project 4 : Medical Image Visualization and Analysis
+1. The project aims to read, visualize and analyze the medical images. The dataset is located in the `data/medical_images/` directory.
+2. The dataset contains medical images of `MRI` and `CT` scans for different anatomical parts of the body. It also contains the `segmentation masks` for the images.
+3. The dataset has
+   1. `Hippocampus MRI` images and segmentation masks
+   2. `Heart MRI` images and segmentation masks
+   3. `Prostate MRI` images and segmentation masks
+   4. `Abdomen CT` images and segmentation masks
+4. These scans are used to diagnose the diseases of the body. The segmentation masks are used to identify the different parts of the body in the images.
+5. Scans are in `NIFTI` format. `NIFTI` is a standard format for storing medical images.
+6. All the scans are `3D Volumes`. Each 3D volume is a stack of `2D images`. Each 2D image is called a `slice`.
+7. Your first task is to read the images and visualize them. You can use the `nibabel` library to read the images.
+8. Visualizing the images is important to understand the data. You can use the `matplotlib` library to visualize the images. Visualization can be done in multiple ways. You can visualize the images in the following ways:
+   1. Visualize the `slices` of the images and the segmentation masks.
+   2. Visualize the `3D volumes` of the images and the segmentation masks.
+9. The next task is to analyze the images. You can use the `numpy` library to analyze the images. The analysis part is open ended. 
+10. You can perform simple statistical analysis on the images. You can also perform more complex analysis like `image segmentation` and `image classification`.
+11. Statistical analysis may include the following:
+    1. Calculate the `mean`, `median`, `standard deviation`, `minimum` and `maxmum` for the whole image, segmented image.
+    2. Now compare the statistics of the segmented image with the whole image. What do you observe?
+12. Complex analysis may include the following:
+    1. Perform `image segmentation` on the images. You can use the `scikit-image` library to perform image segmentation.
+    2. Perform `image classification` on the images. You can use the `scikit-learn` library to perform image classification.
+    3. You can also perform `image registration` on the images. You can use the `SimpleITK` library to perform image registration. 
+12. Try with statistical analysis first and then move on to more complex analysis. Although, we do not expect you to perform complex analysis, you can try it if you want to.
+13. Remember, the analysis part is open ended. You can come up with your own analysis ideas and implement them.
 
 ### Project 5 : Patient Health Statistical Analysis
 
@@ -264,40 +261,16 @@ The deadline for the final project submission is `10th November 2022, 23:59 IST`
           
          Note: This section may hold high weightage so write the observations in short and specific to point.
 
+---
+## Resources
+1. [Python Documentation](https://docs.python.org/3/)
+2. [Class Code Materials](https://github.com/ummadiviany/pds_snippets/)
+3. [Introduction to Computation and Programming Using Python](https://mitpress.mit.edu/9780262542364/introduction-to-computation-and-programming-using-python/)
+4. [Elements of Programming Interviews in Python]()
+5. Python Libraries
+   1. [Matplotlib : For awesome visualizations](https://matplotlib.org/)
+   2. [Pandas : For data analysis](https://pandas.pydata.org/)
+   3. [Numpy : For numerical computations](https://numpy.org/)
 
-
-### Project 6 : Geometrical Objects Drawing & Visualization
-1. create a class with the following instances
-   - `Image` : name the image    ## string
-   - `Shape` : shape of the image ## tuple
-   - `ZeroMatrix` : zero matrix with shape as mentioned 
-2. Write classes for the following geometrical shapes
-   - `Circle`  
-   - `Rectangle` 
-   - `Triangle` 
-3. Write the methods for the following 
-      - Method to make or draw `circle` shape
-      - Method to make or draw `rectangle`
-      - Method to make or draw `Triangle`
-      - Method to draw `all shapes` in one single image
-4. Write the Method or function using `recursive` call (your own choice) to mark the `febninacci` locations(all below 400) of the objects.
-
-      - `Example` : (0,0) location is 0, (1,1) location is 257 
-   
-5. Visualize the data using python library functions
-
-6. `Calculate` the `area` of the objects and comment on your observations
-
-### Project 7 : Medical Image statistics and Data Visualization
-
-1. write a program to read the MRI and CT images in the given folder
-2. visualize the data using python library functions
-3. create class of 10 object for each ten images and create following instances to store the data
-
-   - Patient_Name  - must be initialized as Private member
-   - Max intensity - max value in the image - Public member
-   - Min intensity - min value in the image - Public member
-   - Average intensity - Average value in the image - Public member
-   - Median intensity - median value in the image - Public member
-  
-4.Plot the histogram of the all 10 images and mention your observations clearly.
+---
+## All the best!
