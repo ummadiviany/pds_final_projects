@@ -97,7 +97,6 @@ The deadline for the final project submission is **10th November 2022, 23:59 IST
 | Ramkumar K, Chaudhari Saurabh Santosh, Samriddha Das | [Project 2 : Agriculture Crop Production Analysis](#project-2--agriculture-crop-production-analysis) | Vinay |
 | Prabhukalyan Dash, Soumita Guria | [Project 5 : Patient Health Statistical Analysis](#project-5--patient-health-statistical-analysis) | Sai Pavan |
 
----
 ## Projects
 
 ### Project 1 : Medical Transcription Analysis
